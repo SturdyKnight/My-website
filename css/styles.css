@@ -497,7 +497,7 @@ progress {
   width: 62.2%;
 }
 
-@media (min-width: 412px) {
+@media (min-width: 360px) {
   #avatarsuraj{
     width: 21%;
     height: 21%;
