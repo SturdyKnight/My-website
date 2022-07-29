@@ -488,6 +488,41 @@ progress {
   display: none !important;
 }
 
+#avatarsuraj {
+  width: 62.2%;
+}
+
+
+#avatarsangharaj {
+  width: 62.2%;
+}
+
+@media (min-width: 412px) {
+  #avatarsuraj{
+    width: 21%;
+    height: 21%;
+    margin-left: 0rem;
+  }
+
+  #avatarsangharaj{
+    width: 20%;
+    height: 20%;
+  }
+}
+
+@media (min-width: 965px) and (max-width: 3000px) {
+  #avatarsuraj{
+    width: 8rem;
+    margin-left: 11.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  #avatarsangharaj{
+    width: 8rem;
+  }
+}
+
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
@@ -11412,6 +11447,7 @@ html {
     font-size: 1.5em;
   }
 }
+
 .form-floating input.form-control,
 .form-floating textarea.form-control {
   font-size: 1.5rem;
