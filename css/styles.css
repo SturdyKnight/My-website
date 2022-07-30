@@ -522,6 +522,29 @@ progress {
   }
 }
 
+@media (min-width: 965px) and (max-width: 990px) {
+  #avatarsuraj{
+    width: 8rem;
+    margin-left: 0rem;
+    margin-bottom: 2.5rem;
+  }
+
+  #avatarsangharaj{
+    width: 8rem;
+  }
+}
+
+@media (min-width: 990px) and (max-width: 1500px) {
+  #avatarsuraj{
+    width: 8rem;
+    margin-left: 4rem;
+    margin-bottom: 2.5rem;
+  }
+
+  #avatarsangharaj{
+    width: 8rem;
+  }
+}
 
 .lead {
   font-size: 1.25rem;
