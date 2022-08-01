@@ -3502,6 +3502,16 @@ textarea.form-control-lg {
   background-color: transparent;
 }
 
+.btn-outline-downlight {
+  color: #e1de5e;
+  border-color: #e1de5e;
+}
+.btn-outline-downlight:hover {
+  color: #000;
+  background-color: #e1de5e;
+  border-color: #f8f9fa;
+}
+
 .btn-outline-light {
   color: #f8f9fa;
   border-color: #f8f9fa;
@@ -7401,6 +7411,10 @@ textarea.form-control-lg {
 
 .mt-4 {
   margin-top: 1.5rem !important;
+}
+
+.mt-6 {
+  margin-top: 5rem !important;
 }
 
 .mt-5 {
