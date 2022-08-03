@@ -506,7 +506,25 @@
     "author": "someone",
     "url": "https://images.unsplash.com/photo-1635322966219-b75ed372eb01?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80",
     "thumbnail": "https://images.unsplash.com/photo-1635322966219-b75ed372eb01?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80",
-    "dimensions": "1080x1920",
+    "dimensions": "4k",
+    "copyright": "Unknown",
+    "collections": "3D Renders"
+  }
+    {
+    "name": "Skull",
+    "author": "Cash Macanaya",
+    "url": "https://images.unsplash.com/photo-1646237023864-8f1daf930976?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1646237023864-8f1daf930976?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80",
+    "dimensions": "4k",
+    "copyright": "Unknown",
+    "collections": "3D Renders"
+  }
+    {
+    "name": "Free Fall",
+    "author": "Icarius",
+    "url": "https://images.unsplash.com/photo-1642886292305-149f2c5984eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1642886292305-149f2c5984eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80",
+    "dimensions": "4k",
     "copyright": "Unknown",
     "collections": "3D Renders"
   }
