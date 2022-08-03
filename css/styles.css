@@ -43,6 +43,7 @@
   --bs-dark: #212529;
   --bs-primary-rgb: 225, 222, 94;
   --bs-secondary-rgb: 39, 38, 38;
+  --bs-footer-rgb: 225, 222, 94;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 255, 193, 7;
@@ -676,7 +677,7 @@ progress {
   margin-top: -1rem;
   margin-bottom: 1rem;
   font-size: 0.875em;
-  color: #6c757d;
+  color:  #e1de5e #e1de5e;
 }
 .blockquote-footer::before {
   content: "— ";
@@ -7913,6 +7914,12 @@ textarea.form-control-lg {
   background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.footer-yellow {
+  padding: 2rem;
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-footer-rgb), var(--bs-bg-opacity)) !important;
+}
+
 .bg-success {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
@@ -11599,7 +11606,7 @@ html {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #272626;
+  background-color: #e1de5e;
   color: #fff;
 }
 
