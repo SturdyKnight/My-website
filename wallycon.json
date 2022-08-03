@@ -475,13 +475,13 @@
     "collections": "featured,abstract"
   },
   {
-    "name": "Light House",
+    "name": "Minimal Pink",
     "author": "someone",
-    "url": "https://i.postimg.cc/52yRcwrN/5-6161404119694180623.jpg",
-    "thumbnail": "https://i.postimg.cc/52yRcwrN/5-6161404119694180623.jpg",
+    "url": "https://images.unsplash.com/photo-1644313141721-dbc12d922e60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3774&q=80",
+    "thumbnail": "https://images.unsplash.com/photo-1644313141721-dbc12d922e60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3774&q=80",
     "dimensions": "1280x720",
     "copyright": "Free (do whatever you want)",
-    "collections": "landscapes,city,people"
+    "collections": "landscapes,city,3D Renders"
   },
   {
     "name": "Skeleton",
