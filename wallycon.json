@@ -246,9 +246,9 @@
     "collections": "featured, landscapes"
   },
   {
-    "name": "Trails",
-    "author": "Daniel Kuberek",
-    "url": "https://images.unsplash.com/photo-1567637903900-7a2f05e37e1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+    "name": "Beach",
+    "author": "Oliver Sjöström",
+    "url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg",
     "collections": "featured, landscapes"
   },
   {
@@ -270,16 +270,16 @@
     "collections": "landscapes"
   },
   {
-    "name": "Landscape 2",
-    "author": "Jack Millard",
-    "url": "https://images.unsplash.com/photo-1541623089466-8e777dd05d70?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "collections": "landscapes"
+    "name": "Low angle shot",
+    "author": "Luca Nardone",
+    "url": "https://images.pexels.com/photos/4377176/pexels-photo-4377176.jpeg",
+    "collections": "Monuments"
   },
   {
-    "name": "Landscape 3",
-    "author": "Javier M.",
-    "url": "https://images.unsplash.com/photo-1459679749680-18eb1eb37418?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "collections": "landscapes"
+    "name": "Mountain Range",
+    "author": "eberhard grossgasteiger",
+    "url": "https://images.pexels.com/photos/1670187/pexels-photo-1670187.jpeg",
+    "collections": "Mountain"
   },
   {
     "name": "Amsterdam",
@@ -288,10 +288,10 @@
     "collections": "landscapes"
   },
   {
-    "name": "Sunset Itlay",
-    "author": "Anders Jildén",
-    "url": "https://images.unsplash.com/photo-1499678329028-101435549a4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-    "collections": "landscapes"
+    "name": "Eiffel Tower",
+    "author": "Alex Azabache",
+    "url": "https://images.pexels.com/photos/3879071/pexels-photo-3879071.jpeg",
+    "collections": "Monuments"
   },
   {
     "name": "Vintage Train",
