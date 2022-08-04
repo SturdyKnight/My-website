@@ -324,5 +324,11 @@
 		"dimensions": "4k",
 		"copyright": "Unknown",
 		"collections": "3D Renders"
+	},
+
+	{
+		"name": "Minimal 1",
+		"url": "https://images.unsplash.com/photo-1504198266287-1659872e6590?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=4800&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNzM1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=2160",
+		"collections": "Minimalist"
 	}
 ]
