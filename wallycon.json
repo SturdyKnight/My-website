@@ -330,5 +330,34 @@
 		"name": "Minimal 1",
 		"url": "https://images.unsplash.com/photo-1504198266287-1659872e6590?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=4800&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNzM1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=2160",
 		"collections": "Minimalist"
+	},
+
+
+
+	{
+		"name": "Minimal 2",
+		"url": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNDMx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+		"collections": "Minimalist"
+	},
+
+
+	{
+		"name": "Minimal 3",
+		"url": "https://images.unsplash.com/photo-1572557798994-41431698dc8d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNDI2&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+		"collections": "Minimalist"
+	},
+
+
+	{
+		"name": "Minimal 4",
+		"url": "https://images.unsplash.com/photo-1504198266287-1659872e6590?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=4800&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNzM1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=2160",
+		"collections": "Minimalist"
+	},
+
+
+	{
+		"name": "Minimal 5",
+		"url": "https://images.unsplash.com/photo-1487088678257-3a541e6e3922?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNDI4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+		"collections": "Minimalist"
 	}
 ]
