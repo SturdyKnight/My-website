@@ -549,6 +549,130 @@
 		"name": "Minimal 31",
 		"url": "https://images.unsplash.com/photo-1550353185-761a5da3ee96?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGJsYWNrfHx8fHx8MTY1OTYyOTA4OA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
 		"collections": "Minimalist"
-	}
+	},
+
+
+
+	{
+		"name": "Minimal 32",
+		"url": "https://images.unsplash.com/photo-1493552152660-f915ab47ae9d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTM4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1493552152660f915ab47ae9d.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 33",
+		"url": "https://images.unsplash.com/photo-1502809737437-1d85c70dd2ca?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTcz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo15028097374371d85c70dd2ca.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 34",
+		"url": "https://images.unsplash.com/photo-1502743780242-f10d2ce370f3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQ0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1502743780242f10d2ce370f3.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 35",
+		"url": "https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo14937238436711d655e66ac1c.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 36",
+		"url": "https://images.unsplash.com/photo-1498335746477-0c73d7353a07?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTUy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo14983357464770c73d7353a07.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 37",
+		"url": "https://images.unsplash.com/photo-1497005367839-6e852de72767?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQ2&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo14970053678396e852de72767.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 38",
+		"url": "https://images.unsplash.com/photo-1491947153227-33d59da6c448?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQ5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo149194715322733d59da6c448.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 39",
+		"url": "https://images.unsplash.com/photo-1517586979036-b7d1e86b3345?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWwgc2hhZG93fHx8fHx8MTY1OTcwMDQ3Ng&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1517586979036b7d1e86b3345.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 40",
+		"url": "https://images.unsplash.com/photo-1526545208836-2364475bc672?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWwgc2hhZG93fHx8fHx8MTY1OTcwMDQ3OQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo15265452088362364475bc672.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 41",
+		"url": "https://images.unsplash.com/photo-1634154369165-cadcd9af7100?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTM0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1634154369165cadcd9af7100.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 42",
+		"url": "https://images.unsplash.com/photo-1560406146-78f8cb5e0fbe?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTM1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo156040614678f8cb5e0fbe.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 43",
+		"url": "https://images.unsplash.com/photo-1531062655013-ebcacdf1c350?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTM3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1531062655013ebcacdf1c350.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 44",
+		"url": "https://images.unsplash.com/photo-1531265726475-52ad60219627?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo153126572647552ad60219627.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 45",
+		"url": "https://images.unsplash.com/photo-1475965894430-b05c9d13568a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQ4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1475965894430b05c9d13568a.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+	{
+		"name": "Minimal 46",
+		"url": "https://images.unsplash.com/photo-1504548840739-580b10ae7715?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTU0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
+		"dimensions": "1440x3120",
+		"thumbnail" : "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1504548840739580b10ae7715.jpg",
+		"collections": "featured,Minimalist"
+	},
+
+
 
 ]
