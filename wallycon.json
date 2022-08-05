@@ -63,18 +63,20 @@
 		"name": "Night Aura",
 		"author": "Benjamin Suter",
 		"url": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg",
+		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_pexelsphoto3617500.jpg",
 		"collections": "featured, landscapes"
 	},
 	{
 		"name": "Beach",
 		"author": "Oliver Sjöström",
 		"url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg",
+		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_pexelsphoto1078983.jpg",
 		"collections": "featured, landscapes"
 	},
 	{
 		"name": "Abstract 13",
 		"url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/1.png",
-		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_1.png",       
+		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_onlineimageresize_com_1.jpg",       
 		"collections": "abstract"
 	},
 	{
@@ -146,18 +148,21 @@
 		"name": "Landscape 1",
 		"author": "someone",
 		"url": "https://images.pexels.com/photos/3565742/pexels-photo-3565742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_pexelsphoto3565742.jpg",
 		"collections": "landscapes"
 	},
 	{
 		"name": "Low angle shot",
 		"author": "Luca Nardone",
 		"url": "https://images.pexels.com/photos/4377176/pexels-photo-4377176.jpeg",
+		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_pexelsphoto4377176.jpg",
 		"collections": "Monuments"
 	},
 	{
 		"name": "Mountain Range",
 		"author": "eberhard grossgasteiger",
 		"url": "https://images.pexels.com/photos/1670187/pexels-photo-1670187.jpeg",
+		"thumbnail": "",
 		"collections": "Mountain"
 	},
 	{
