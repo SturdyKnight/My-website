@@ -314,7 +314,7 @@
 		"thumbnail": "https://i.postimg.cc/1XTN81yd/Red-river-of-Venus26358-rectangle.jpg",
 		"dimensions": "450x800",
 		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,city",
+		"collections": "landscapes,city",
 		"featured": true
 	},
 	{
@@ -324,7 +324,7 @@
 		"thumbnail": "https://i.postimg.cc/XYhCgDzW/837258.png",
 		"dimensions": "1280x720",
 		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
+		"collections": "landscapes"
 	},
 	{
 		"name": "Red Minima Mountain",
@@ -333,7 +333,7 @@
 		"thumbnail": "https://i.postimg.cc/wxZYgXZv/885155.jpg",
 		"dimensions": "1280x720",
 		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
+		"collections": "landscapes"
 	},
 	{
 		"name": "Rail Night",
