@@ -170,13 +170,6 @@
 		"thumbnail": "https://i.ibb.co/Y7j41wY/9.jpg",
 		"collections": "abstract"
 	},
-	{
-		"name": "Landscape 1",
-		"author": "someone",
-		"url": "https://images.pexels.com/photos/3565742/pexels-photo-3565742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-		"thumbnail": "https://i.ibb.co/f8gf9bR/pexels-photo-3565742.jpg",
-		"collections": "landscapes"
-	},
 
 	{
 		"name": "Interior of Turkey",
@@ -200,12 +193,7 @@
 		"thumbnail": "https://i.ibb.co/nsHH68X/pexels-photo-1670187.jpg",
 		"collections": "Mountain"
 	},
-	{
-		"name": "Landscape 2",
-		"url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjI1MDk&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "https://i.ibb.co/GRmsLWn/photo-1501785888041-af3ef285b470.jpg",
-		"collections": "landscapes"
-	},
+
 	{
 		"name": "A Ferry Boat",
 		"author": "ibookrt",
@@ -220,6 +208,24 @@
 		"thumbnail": "https://i.ibb.co/P4jG8N5/pexels-photo-10920818.jpg",
 		"collections": "Mountain"
 	},
+
+
+	{
+		"name": "Landscape 1",
+		"author": "someone",
+		"url": "https://images.pexels.com/photos/3565742/pexels-photo-3565742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+		"thumbnail": "https://i.ibb.co/f8gf9bR/pexels-photo-3565742.jpg",
+		"collections": "landscapes"
+	},
+	
+
+	{
+		"name": "Landscape 2",
+		"url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjI1MDk&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
+		"thumbnail": "https://i.ibb.co/GRmsLWn/photo-1501785888041-af3ef285b470.jpg",
+		"collections": "landscapes"
+	},
+
 	{
 		"name": "Landscape 3",
 		"url": "https://images.unsplash.com/photo-1554147090-e1221a04a025?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2400&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjI3MDg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
@@ -774,7 +780,7 @@
 		"dimensions": "1440x3120",
 		"thumbnail" : "https://i.ibb.co/9bWwKFK/photo-1583270425012-1de82718620e.jpg",
 		"collections": "Monuments"
-	}
+	},
 
 
 ]
