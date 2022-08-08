@@ -1,13 +1,4 @@
-[
-	{
-		"name": "Night Aura",
-		"author": "Benjamin Suter",
-		"url": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg",
-		"thumbnail": "https://i.ibb.co/SNm8pvt/pexels-photo-3617500.jpg",
-		"collections": "landscapes"
-	},
-
-	{
+[ {
 		"name": "Beach",
 		"author": "Oliver Sjöström",
 		"url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg",
@@ -43,11 +34,20 @@
 
 
 	{
+		"name": "Dr.Strange",
+		"author": "",
+		"url": "https://64.media.tumblr.com/c1327dc31c96bbee6c19e8d2a43269a2/tumblr_p3hbk4ue4h1uamz4jo7_1280.png",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+	{
 		"name": "Infinity War",
 		"author": "",
 		"url": "https://www.itl.cat/pngfile/big/55-551460_neon-avengers-parallax-wallpapers.jpg",
 		"thumbnail": "https://i.ibb.co/ypwXmvx/55-551460-neon-avengers-parallax-wallpapers.jpg",
-		"collections": "people,landscapes"
+		"collections": "people"
 	},
 
 	{
@@ -55,7 +55,7 @@
 		"author": "",
 		"url": "https://w0.peakpx.com/wallpaper/759/286/HD-wallpaper-avengers-electric-electric-blue-magenta-dark-theme-night-dark-mode-marvel-bgmi-amoled-dark-black-panther-pubg-dark.jpg",
 		"thumbnail": "https://w0.peakpx.com/wallpaper/759/286/HD-wallpaper-avengers-electric-electric-blue-magenta-dark-theme-night-dark-mode-marvel-bgmi-amoled-dark-black-panther-pubg-dark.jpg",
-		"collections": "people,landscapes"
+		"collections": "people"
 	},
 
 
@@ -64,7 +64,7 @@
 		"author": "",
 		"url": "https://www.itl.cat/pngfile/big/1-17613_neon-avengers-parallax-wallpapers-for-iphone-8-marvel.jpg",
 		"thumbnail": "https://www.itl.cat/pngfile/big/1-17613_neon-avengers-parallax-wallpapers-for-iphone-8-marvel.jpg",
-		"collections": "people,landscapes"
+		"collections": "people"
 	},
 
 	{
@@ -72,7 +72,87 @@
 		"author": "",
 		"url": "https://www.teahub.io/photos/full/354-3540128_deadpool-wallpaper-face.jpg",
 		"thumbnail": "https://www.teahub.io/photos/full/354-3540128_deadpool-wallpaper-face.jpg",
-		"collections": "people,landscapes"
+		"collections": "people"
+	},
+
+
+	{
+		"name": "Miniature",
+		"author": "",
+		"url": "https://static.wixstatic.com/media/5dd4fd_d5231f2e982e4f41a19f1a21d45619e9~mv2.jpg/v1/fill/w_710,h_1498,al_c,q_90/5dd4fd_d5231f2e982e4f41a19f1a21d45619e9~mv2.webp",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+	{
+		"name": "Avengers",
+		"author": "",
+		"url": "https://64.media.tumblr.com/051fa4b896350c879b685f92ff920ea9/tumblr_p3hbk4ue4h1uamz4jo6_1280.png",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+	{
+		"name": "IronMan",
+		"author": "",
+		"url": "https://64.media.tumblr.com/e1d4a9ad41e09b29361aad80e24b81a7/tumblr_p3hbk4ue4h1uamz4jo2_1280.png",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+	{
+		"name": "Captain America",
+		"author": "",
+		"url": "https://64.media.tumblr.com/75f2ca5bb016f7eb242fb9dc4f899ca3/tumblr_p3hbk4ue4h1uamz4jo3_1280.png",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+	{
+		"name": "Spidey",
+		"author": "",
+		"url": "https://64.media.tumblr.com/789d7a0b786c6543424d23da7b45f3ad/tumblr_p3hbk4ue4h1uamz4jo4_1280.png",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+	{
+		"name": "Hulk",
+		"author": "",
+		"url": "https://64.media.tumblr.com/262391f64f807ae334edcde0cea835c0/tumblr_p3hbk4ue4h1uamz4jo5_1280.png",
+		"thumbnail": "h",
+		"collections": "people"
+	},
+
+
+
+	{
+		"name": "Scarlett",
+		"author": "",
+		"url": "https://64.media.tumblr.com/729cd3716ccec38111c135db5c2669e7/tumblr_p3hbk4ue4h1uamz4jo8_1280.png",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+	{
+		"name": "Assemble",
+		"author": "",
+		"url": "https://64.media.tumblr.com/9a7df1a1d701b71021b40a62d3199219/tumblr_ohqk4cGDcR1uk58d3o1_1280.jpg",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+	{
+		"name": "Night Aura",
+		"author": "Benjamin Suter",
+		"url": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg",
+		"thumbnail": "https://i.ibb.co/SNm8pvt/pexels-photo-3617500.jpg",
+		"collections": "landscapes"
 	},
 
 	{
