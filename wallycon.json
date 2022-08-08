@@ -35,11 +35,29 @@
 
 	{
 		"name": "Diamond Beach",
-		"author": "Oliver Sjöström",
+		"author": "",
 		"url": "https://images.unsplash.com/photo-1573790387438-4da905039392?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3250&q=80g",
 		"thumbnail": "https://images.unsplash.com/photo-1573790387438-4da905039392?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=425&q=80",
 		"collections": "Beach,landscapes"
 	},
+
+
+	{
+		"name": "Infinity War",
+		"author": "",
+		"url": "https://www.itl.cat/pngfile/big/55-551460_neon-avengers-parallax-wallpapers.jpg",
+		"thumbnail": "https://i.ibb.co/ypwXmvx/55-551460-neon-avengers-parallax-wallpapers.jpg",
+		"collections": "people,landscapes"
+	},
+
+	{
+		"name": "Black Panther",
+		"author": "",
+		"url": "https://www.itl.cat/pngfile/big/1-17613_neon-avengers-parallax-wallpapers-for-iphone-8-marvel.jpg",
+		"thumbnail": "https://www.itl.cat/pngfile/big/1-17613_neon-avengers-parallax-wallpapers-for-iphone-8-marvel.jpg",
+		"collections": "people,landscapes"
+	},
+
 
 	{
 		"name": "Abstract 1",
@@ -361,7 +379,7 @@
 		"thumbnail": "https://i.ibb.co/DtvcpsT/photo-1647725904168-acaa7ef93d73.jpg",
 		"dimensions": "370x800",
 		"copyright": "Free (do whatever you want)",
-		"collections": "featured,3D Renders"
+		"collections": "3D Renders"
 	},
 	{
 		"name": "Minimal Pink",
