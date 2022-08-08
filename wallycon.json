@@ -77,7 +77,7 @@
 		"author": "Benjamin Suter",
 		"url": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg",
 		"thumbnail": "https://i.ibb.co/SNm8pvt/pexels-photo-3617500.jpg",
-		"collections": "featured, landscapes"
+		"collections": "landscapes"
 	},
 	{
 		"name": "Beach",
@@ -601,7 +601,7 @@
 		"thumbnail": "https://i.ibb.co/G7phBGQ/photo-1550353185-761a5da3ee96.jpg",
 		"collections": "Minimalist"
 	},
-	
+
 
 	{
 		"name": "Minimal 32",
