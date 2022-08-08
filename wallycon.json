@@ -125,7 +125,7 @@
 		"name": "Hulk",
 		"author": "",
 		"url": "https://64.media.tumblr.com/262391f64f807ae334edcde0cea835c0/tumblr_p3hbk4ue4h1uamz4jo5_1280.png",
-		"thumbnail": "h",
+		"thumbnail": "",
 		"collections": "people"
 	},
 
@@ -146,6 +146,17 @@
 		"thumbnail": "",
 		"collections": "people"
 	},
+
+
+
+	{
+		"name": "Dr.Strange",
+		"author": "",
+		"url": "https://64.media.tumblr.com/35fadea05c242ffcbe5a2bc67214854f/tumblr_ohqk4cGDcR1uk58d3o4_1280.jpg",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
 
 	{
 		"name": "Night Aura",
