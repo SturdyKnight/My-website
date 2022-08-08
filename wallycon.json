@@ -12,7 +12,7 @@
 		"author": "Oliver Sjöström",
 		"url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg",
 		"thumbnail": "https://i.ibb.co/R3mxG5h/pexels-photo-1078983.jpg",
-		"collections": "featured, landscapes"
+		"collections": "Beach,landscapes"
 	},
 
 	{
@@ -20,7 +20,7 @@
 		"author": "Majid Azim",
 		"url": "https://images.unsplash.com/photo-1604472279981-646df055467f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2250&q=80",
 		"thumbnail": "https://images.unsplash.com/photo-1604472279981-646df055467f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
-		"collections": "featured, landscapes"
+		"collections": "Beach, landscapes"
 	},
 
 	{
