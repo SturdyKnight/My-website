@@ -43,7 +43,7 @@
 
 
 	{
-		"name": "Hello Strange",
+		"name": "Hello Mr. Strange",
 		"author": "",
 		"url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec89278a-40ca-48b4-970f-e1daf6ea23cc/dd871tj-1fbff8ad-0368-4a7f-8c2f-85a6385597c9.jpg/v1/fill/w_900,h_1437,q_75,strp/gangsthanos__by_adagadegelo_dd871tj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQzNyIsInBhdGgiOiJcL2ZcL2VjODkyNzhhLTQwY2EtNDhiNC05NzBmLWUxZGFmNmVhMjNjY1wvZGQ4NzF0ai0xZmJmZjhhZC0wMzY4LTRhN2YtOGMyZi04NWE2Mzg1NTk3YzkuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Mn7FhjE7o3FmLLMgFQwtQSfYmr-qdlGZJuQ3A9ueyUM",
 		"thumbnail": "",
@@ -245,6 +245,34 @@
 		"name": "Endgame Screenprint",
 		"author": "",
 		"url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9946d787699405.5dc07056caea3.png",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+	{
+		"name": "Namaste",
+		"author": "",
+		"url": "https://formikoboric.files.wordpress.com/2019/10/bd8b2855ca12db3a8fc0ff40d68fe8ea.jpg?w=1000&h=",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+
+	{
+		"name": "Thanos",
+		"author": "",
+		"url": "https://img-9gag-fun.9cache.com/photo/a1QA1KY_700bwp.webp",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+	{
+		"name": "E=mc^2",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/9a/92/71/9a9271c9fcc8f012323ed52474229596.jpg",
 		"thumbnail": "",
 		"collections": "people"
 	},
