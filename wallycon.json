@@ -65,6 +65,23 @@
 		"collections": "people"
 	},
 
+	{
+		"name": "Loser",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/6b/18/5c/6b185cad82c61b829f2b19ddf8619223.jpg",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
+
+	{
+		"name": "Illustration",
+		"author": "",
+		"url": "https://i.redd.it/lwp8nfv0hup31.jpg",
+		"thumbnail": "",
+		"collections": "people"
+	},
+
 
 	{
 		"name": "Infinity War",
@@ -510,7 +527,7 @@
 		"name": "Skeleton",
 		"author": "someone",
 		"url": "https://images.unsplash.com/photo-1644600854176-17d52cbe4bff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80",
-		"thumbnail": "https://i.ibb.co/mBhy7kv/photo-1646237023864-8f1daf930976.jpg",
+		"thumbnail": "https://i.ibb.co/B4BQXrn/photo-1644600854176-17d52cbe4bff.jpg",
 		"dimensions": "31280x720",
 		"copyright": "Free (do whatever you want)",
 		"collections": "3D Renders,people",
