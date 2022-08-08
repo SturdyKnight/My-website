@@ -197,7 +197,7 @@
 		"name": "Mountain Range",
 		"author": "eberhard grossgasteiger",
 		"url": "https://images.pexels.com/photos/1670187/pexels-photo-1670187.jpeg",
-		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_pexelsphoto1670187.jpg",
+		"thumbnail": "https://i.ibb.co/nsHH68X/pexels-photo-1670187.jpg",
 		"collections": "Mountain"
 	},
 	{
@@ -241,7 +241,7 @@
 	{
 		"name": "Landscape 5",
 		"url": "https://images.unsplash.com/photo-1524799526615-766a9833dec0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjMxNzg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1524799526615766a9833dec0.jpg",
+		"thumbnail": "https://i.ibb.co/hDRHV36/photo-1524799526615-766a9833dec0.jpg",
 		"collections": "landscapes"
 	},
 	{
@@ -253,20 +253,20 @@
 	{
 		"name": "Landscape 7",
 		"url": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjMxODI&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1507608869274d3177c8bb4c7.jpg",
+		"thumbnail": "https://i.ibb.co/mNm7L06/photo-1507608869274-d3177c8bb4c7.jpg",
 		"collections": "landscapes"
 	},
 	{
 		"name": "Landscape 8",
 		"url": "https://images.unsplash.com/photo-1476673160081-cf065607f449?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjMxODM&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_photo1476673160081cf065607f449.jpg",
+		"thumbnail": "https://i.ibb.co/Vpwr5nk/photo-1476673160081-cf065607f449.jpg",
 		"collections": "landscapes"
 	},
 	{
 		"name": "Magical Sky",
 		"author": "Someone",
 		"url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg",
-		"thumbnail": "https://www.onlineimageresize.com/fajlok/resized/onlineimageresize_com_pexelsphoto1624496.jpg",
+		"thumbnail": "https://i.ibb.co/TTzdZPs/pexels-photo-1624496.jpg",
 		"dimensions": "1920x1080",
 		"collections": "landscapes,city",
 		"downloadable": false
@@ -311,7 +311,7 @@
 		"name": "Skeleton",
 		"author": "someone",
 		"url": "https://images.unsplash.com/photo-1644600854176-17d52cbe4bff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80",
-		"thumbnail": "https://images.unsplash.com/photo-1644600854176-17d52cbe4bff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1964&q=80",
+		"thumbnail": "https://i.ibb.co/mBhy7kv/photo-1646237023864-8f1daf930976.jpg",
 		"dimensions": "31280x720",
 		"copyright": "Free (do whatever you want)",
 		"collections": "3D Renders,people",
@@ -322,7 +322,7 @@
 		"name": "Building",
 		"author": "unknown",
 		"url": "https://images.unsplash.com/photo-1647725904168-acaa7ef93d73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2800&q=80",
-		"thumbnail": "https://images.unsplash.com/photo-1647725904168-acaa7ef93d73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2800&q=80",
+		"thumbnail": "https://i.ibb.co/DtvcpsT/photo-1647725904168-acaa7ef93d73.jpg",
 		"dimensions": "370x800",
 		"copyright": "Free (do whatever you want)",
 		"collections": "featured,3D Renders"
@@ -331,7 +331,7 @@
 		"name": "Minimal Pink",
 		"author": "someone",
 		"url": "https://images.unsplash.com/photo-1644313141721-dbc12d922e60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3774&q=80",
-		"thumbnail": "https://images.unsplash.com/photo-1644313141721-dbc12d922e60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3774&q=80",
+		"thumbnail": "https://i.ibb.co/0Q3f6Lv/photo-1644313141721-dbc12d922e60.jpg",
 		"dimensions": "1280x720",
 		"copyright": "Free (do whatever you want)",
 		"collections": "landscapes,city,3D Renders"
@@ -340,7 +340,7 @@
 		"name": "Pink paper tree",
 		"author": "someone",
 		"url": "https://images.unsplash.com/photo-1630857453903-0386bfb0d990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80",
-		"thumbnail": "https://images.unsplash.com/photo-1630857453903-0386bfb0d990?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80",
+		"thumbnail": "https://i.ibb.co/tbf9kPy/photo-1630857453903-0386bfb0d990.jpg",
 		"dimensions": "2160x3840",
 		"copyright": "Free (do whatever you want)",
 		"collections": "3D Renders"
@@ -349,7 +349,7 @@
 		"name": "Deer",
 		"author": "someone",
 		"url": "https://images.unsplash.com/photo-1635322966219-b75ed372eb01?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80",
-		"thumbnail": "https://images.unsplash.com/photo-1635322966219-b75ed372eb01?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80",
+		"thumbnail": "https://i.ibb.co/4gPyrKj/photo-1635322966219-b75ed372eb01.jpg",
 		"dimensions": "4k",
 		"copyright": "Unknown",
 		"collections": "3D Renders"
@@ -367,7 +367,7 @@
 		"name": "Free Fall",
 		"author": "Icarius",
 		"url": "https://images.unsplash.com/photo-1642886292305-149f2c5984eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80",
-		"thumbnail": "https://images.unsplash.com/photo-1642886292305-149f2c5984eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2160&q=80",
+		"thumbnail": "https://i.ibb.co/XCw4Dvb/photo-1642886292305-149f2c5984eb.jpg",
 		"dimensions": "4k",
 		"copyright": "Unknown",
 		"collections": "3D Renders"
@@ -376,7 +376,7 @@
 	{
 		"name": "Minimal 1",
 		"url": "https://images.unsplash.com/photo-1504198266287-1659872e6590?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=4800&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNzM1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=2160",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/xDN2tDQ/photo-1504198266287-1659872e6590.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -385,7 +385,7 @@
 	{
 		"name": "Minimal 2",
 		"url": "https://images.unsplash.com/photo-1533038590840-1cde6e668a91?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNDMx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/5LvtSMh/photo-1533038590840-1cde6e668a91.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -393,7 +393,7 @@
 	{
 		"name": "Minimal 3",
 		"url": "https://images.unsplash.com/photo-1572557798994-41431698dc8d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNDI2&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/qkGbq5t/photo-1572557798994-41431698dc8d.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -401,7 +401,7 @@
 	{
 		"name": "Minimal 4",
 		"url": "https://images.unsplash.com/photo-1496307653780-42ee777d4833?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNDMw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/SVdLC2V/photo-1496307653780-42ee777d4833.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -409,7 +409,7 @@
 	{
 		"name": "Minimal 5",
 		"url": "https://images.unsplash.com/photo-1487088678257-3a541e6e3922?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNDI4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/SKL2z9d/photo-1487088678257-3a541e6e3922.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -418,7 +418,7 @@
 	{
 		"name": "Minimal 6",
 		"url": "https://images.unsplash.com/photo-1466781783364-36c955e42a7f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=4800&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNzI5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=2160",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/j9CBGtq/photo-1507525428034-b723cf961d3e.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -426,7 +426,7 @@
 	{
 		"name": "Minimal 7",
 		"url": "https://images.unsplash.com/photo-1520262494112-9fe481d36ec3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjI2NDQ1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/TMLDv8J/photo-1520262494112-9fe481d36ec3.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -434,7 +434,7 @@
 	{
 		"name": "Minimal 8",
 		"url": "https://images.unsplash.com/photo-1531736275454-adc48d079ce9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjI2NDQ3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/CJdxH3z/photo-1531736275454-adc48d079ce9.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -442,7 +442,7 @@
 	{
 		"name": "Minimal 9",
 		"url": "https://images.unsplash.com/photo-1482977036925-e8fcaa643657?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjI2NDQ5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/grZsQ7h/photo-1482977036925-e8fcaa643657.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -450,7 +450,7 @@
 	{
 		"name": "Minimal 10",
 		"url": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjI2NDUw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/wwqQXRf/photo-1533090161767-e6ffed986c88.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -458,7 +458,7 @@
 	{
 		"name": "Minimal 11",
 		"url": "https://images.unsplash.com/photo-1497604401993-f2e922e5cb0a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjI2NDUx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/vdZxshG/photo-1497604401993-f2e922e5cb0a.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -466,7 +466,7 @@
 	{
 		"name": "Minimal 12",
 		"url": "https://images.unsplash.com/photo-1497367917223-64c44836be50?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjI2NDYx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/Qmhcjc4/photo-1497367917223-64c44836be50.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -482,7 +482,7 @@
 	{
 		"name": "Minimal 14",
 		"url": "https://images.unsplash.com/photo-1500239038240-9b3b8bac73c3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWwsYmxhY2t8fHx8fHwxNjU5NjI2NTk2&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/fYdw35R/photo-1500239038240-9b3b8bac73c3.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -490,7 +490,7 @@
 	{
 		"name": "Minimal 15",
 		"url": "https://images.unsplash.com/photo-1544365558-35aa4afcf11f?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWxpc3RpY3x8fHx8fDE2NTk2MjY3MDI&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/yn2FTKF/photo-1544365558-35aa4afcf11f.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -498,7 +498,7 @@
 	{
 		"name": "Minimal 16",
 		"url": "https://images.unsplash.com/photo-1487147264018-f937fba0c817?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWxpc3RpY3x8fHx8fDE2NTk2MjY2OTk&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/h2DxxJC/photo-1487147264018-f937fba0c817.jpg",
 		"collections": "Minimalist"
 	},
 
@@ -506,35 +506,35 @@
 	{
 		"name": "Minimal 17",
 		"url": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWxpc3RpY3x8fHx8fDE2NTk2MjY2NDM&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/J5KQRwV/photo-1457369804613-52c61a468e7d.jpg",
 		"collections": "Minimalist"
 	},
 
 	{
 		"name": "Minimal 18",
 		"url": "https://images.unsplash.com/photo-1637511916663-93dd81076890?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWxpc3RpY3x8fHx8fDE2NTk2MjY2NjA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/9Y7tw24/photo-1637511916663-93dd81076890.jpg",
 		"collections": "Minimalist"
 	},
 
 	{
 		"name": "Minimal 19",
 		"url": "https://images.unsplash.com/photo-1521515428649-7f27b37d88f1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWxpc3RpY3x8fHx8fDE2NTk2MjY2NzI&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/WnVVQj9/photo-1521515428649-7f27b37d88f1.jpg",
 		"collections": "Minimalist"
 	},
 
 	{
 		"name": "Minimal 20",
 		"url": "https://images.unsplash.com/photo-1649608118930-70b0a62cdf62?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWxpc3RpY3x8fHx8fDE2NTk2MjY2Nzk&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/YQ6vgHs/photo-1649608118930-70b0a62cdf62.jpg",
 		"collections": "Minimalist"
 	},
 
 	{
 		"name": "Minimal 21",
 		"url": "https://images.unsplash.com/photo-1504548840739-580b10ae7715?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWxpc3RpY3x8fHx8fDE2NTk2MjY2ODQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
-		"thumbnail": "",
+		"thumbnail": "https://i.ibb.co/XXspFCK/photo-1504548840739-580b10ae7715.jpg",
 		"collections": "Minimalist"
 	},
 
