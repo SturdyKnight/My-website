@@ -1,4 +1,29 @@
-[{
+[
+	{
+		"name": "Night Aura",
+		"author": "Benjamin Suter",
+		"url": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg",
+		"thumbnail": "https://i.ibb.co/SNm8pvt/pexels-photo-3617500.jpg",
+		"collections": "landscapes"
+	},
+
+	{
+		"name": "Beach",
+		"author": "Oliver Sjöström",
+		"url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg",
+		"thumbnail": "https://i.ibb.co/R3mxG5h/pexels-photo-1078983.jpg",
+		"collections": "featured, landscapes"
+	},
+
+	{
+		"name": "Bali",
+		"author": "Majid Azim",
+		"url": "https://images.unsplash.com/photo-1604472279981-646df055467f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2250&q=80",
+		"thumbnail": "https://images.unsplash.com/photo-1604472279981-646df055467f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+		"collections": "featured, landscapes"
+	},
+
+	{
 		"name": "Abstract 1",
 		"url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/Floating-2-1.png",
 		"thumbnail": "https://i.ibb.co/HxwJ5Rx/Floating-2-1.jpg",
@@ -72,20 +97,7 @@
 		"thumbnail": "https://i.ibb.co/bW2f3G3/Floating-1-1.jpg",
 		"collections": "abstract"
 	},
-	{
-		"name": "Night Aura",
-		"author": "Benjamin Suter",
-		"url": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg",
-		"thumbnail": "https://i.ibb.co/SNm8pvt/pexels-photo-3617500.jpg",
-		"collections": "landscapes"
-	},
-	{
-		"name": "Beach",
-		"author": "Oliver Sjöström",
-		"url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg",
-		"thumbnail": "https://i.ibb.co/R3mxG5h/pexels-photo-1078983.jpg",
-		"collections": "featured, landscapes"
-	},
+
 	{
 		"name": "Abstract 13",
 		"url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/1.png",
@@ -217,7 +229,7 @@
 		"thumbnail": "https://i.ibb.co/f8gf9bR/pexels-photo-3565742.jpg",
 		"collections": "landscapes"
 	},
-	
+
 
 	{
 		"name": "Landscape 2",
