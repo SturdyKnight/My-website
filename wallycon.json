@@ -1,4 +1,5 @@
-[   //Anime 
+[   
+	//Skies
 	{
 		"name": "",
 		"author": "",
@@ -55,55 +56,116 @@
 		"thumbnail": "",
 		"collections":"",
 	},
+
+
+
+    //Anime 
 	{
 		"name": "",
 		"author": "",
 		"url": "",
 		"thumbnail": "",
-		"collections":"",
+		"collections":"Anime",
 	},
 	{
 		"name": "",
 		"author": "",
 		"url": "",
 		"thumbnail": "",
-		"collections":"",
+		"collections":"Anime",
 	},
 	{
 		"name": "",
 		"author": "",
 		"url": "",
 		"thumbnail": "",
-		"collections":"",
+		"collections":"Anime",
 	},
 	{
 		"name": "",
 		"author": "",
 		"url": "",
 		"thumbnail": "",
-		"collections":"",
+		"collections":"Anime",
 	},
 	{
 		"name": "",
 		"author": "",
 		"url": "",
 		"thumbnail": "",
-		"collections":"",
+		"collections":"Anime",
 	},
 	{
 		"name": "",
 		"author": "",
 		"url": "",
 		"thumbnail": "",
-		"collections":"",
+		"collections":"Anime",
 	},
 	{
 		"name": "",
 		"author": "",
 		"url": "",
 		"thumbnail": "",
-		"collections":"",
+		"collections":"Anime",
 	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"Anime",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"Anime",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"Anime",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"Anime",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"Anime",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"Anime",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"Anime",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"Anime",
+	},
+
 
     //Beach 
 
