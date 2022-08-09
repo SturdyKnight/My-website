@@ -1,4 +1,113 @@
-[
+[   //Anime 
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+	{
+		"name": "",
+		"author": "",
+		"url": "",
+		"thumbnail": "",
+		"collections":"",
+	},
+
+    //Beach 
+
+
     {
         "name":"Beach",
         "author":"Oliver Sjöström",
@@ -27,13 +136,11 @@
         "thumbnail":"https://images.unsplash.com/photo-1573790387438-4da905039392?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=425&q=80",
         "collections":"Beach,landscapes"
     },
-    {
-        "name":"Night Aura",
-        "author":"Benjamin Suter",
-        "url":"https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg",
-        "thumbnail":"https://i.ibb.co/SNm8pvt/pexels-photo-3617500.jpg",
-        "collections":"landscapes"
-    },
+
+     
+     //Abstract 
+
+
     {
         "name":"Abstract 1",
         "url":"https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/Floating-2-1.png",
@@ -190,26 +297,25 @@
         "thumbnail":"https://i.ibb.co/Y7j41wY/9.jpg",
         "collections":"abstract"
     },
+
+
+    //Landscape
+
+
+    
     {
-        "name":"Interior of Turkey",
-        "author":"Ahmed",
-        "url":"https://images.pexels.com/photos/6792006/pexels-photo-6792006.jpeg",
-        "thumbnail":"https://i.ibb.co/yygXkc0/pexels-photo-6792006.jpg",
-        "collections":"Monuments"
-    },
-    {
-        "name":"Dragon Sculpt",
-        "author":"Olya Kobruseva",
-        "url":"https://images.pexels.com/photos/5275014/pexels-photo-5275014.jpeg",
-        "thumbnail":"https://i.ibb.co/FYnxKyf/pexels-photo-5275014.jpg",
-        "collections":"Monuments"
+        "name":"Night Aura",
+        "author":"Benjamin Suter",
+        "url":"https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg",
+        "thumbnail":"https://i.ibb.co/SNm8pvt/pexels-photo-3617500.jpg",
+        "collections":"landscapes"
     },
     {
         "name":"Mountain Range",
         "author":"eberhard grossgasteiger",
         "url":"https://images.pexels.com/photos/1670187/pexels-photo-1670187.jpeg",
         "thumbnail":"https://i.ibb.co/nsHH68X/pexels-photo-1670187.jpg",
-        "collections":"Mountain"
+        "collections":"landscapes"
     },
     {
         "name":"A Ferry Boat",
@@ -223,7 +329,7 @@
         "author":"Atahan Demir",
         "url":"https://images.pexels.com/photos/10920818/pexels-photo-10920818.jpeg",
         "thumbnail":"https://i.ibb.co/P4jG8N5/pexels-photo-10920818.jpg",
-        "collections":"Mountain"
+        "collections":"landscapes"
     },
     {
         "name":"Landscape 1",
@@ -286,7 +392,7 @@
         "url":"https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg",
         "thumbnail":"https://i.ibb.co/TTzdZPs/pexels-photo-1624496.jpg",
         "dimensions":"1920x1080",
-        "collections":"landscapes,city",
+        "collections":"landscapes,",
         "downloadable":false
     },
     {
@@ -296,7 +402,7 @@
         "thumbnail":"https://i.postimg.cc/1XTN81yd/Red-river-of-Venus26358-rectangle.jpg",
         "dimensions":"450x800",
         "copyright":"Free (do whatever you want)",
-        "collections":"landscapes,city",
+        "collections":"landscapes,",
         "featured":true
     },
     {
@@ -323,8 +429,13 @@
         "url":"https://i.postimg.cc/HnswN841/undefined-Imgur.png",
         "thumbnail":"https://i.postimg.cc/HnswN841/undefined-Imgur.png",
         "copyright":"Free (do whatever you want)",
-        "collections":"landscapes,city"
+        "collections":"landscapes,"
     },
+
+
+    //3d-Renders
+
+
     {
         "name":"Skeleton",
         "author":"someone",
@@ -389,6 +500,11 @@
         "copyright":"Unknown",
         "collections":"3D Renders"
     },
+
+
+    //Minimal
+
+
     {
         "name":"Minimal 1",
         "url":"https://images.unsplash.com/photo-1504198266287-1659872e6590?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=4800&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWx8fHx8fHwxNjU5NjIzNzM1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=2160",
@@ -674,6 +790,26 @@
         "thumbnail":"https://i.ibb.co/jkgL3n2/photo-1504548840739-580b10ae7715.jpg",
         "collections":"featured,Minimalist"
     },
+
+
+    //Monuments
+
+
+    
+    {
+        "name":"Interior of Turkey",
+        "author":"Ahmed",
+        "url":"https://images.pexels.com/photos/6792006/pexels-photo-6792006.jpeg",
+        "thumbnail":"https://i.ibb.co/yygXkc0/pexels-photo-6792006.jpg",
+        "collections":"Monuments"
+    },
+    {
+        "name":"Dragon Sculpt",
+        "author":"Olya Kobruseva",
+        "url":"https://images.pexels.com/photos/5275014/pexels-photo-5275014.jpeg",
+        "thumbnail":"https://i.ibb.co/FYnxKyf/pexels-photo-5275014.jpg",
+        "collections":"Monuments"
+    },
     {
         "name":"Eiffel Close up",
         "url":"https://images.unsplash.com/photo-1542033042563-62f6c93287b1?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=4680&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1vbnVtZW50c3x8fHx8fDE2NTk4MDM1NDI&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=2160",
@@ -716,6 +852,11 @@
         "thumbnail":"https://i.ibb.co/9bWwKFK/photo-1583270425012-1de82718620e.jpg",
         "collections":"Monuments"
     },
+
+
+    // Marvel
+
+
     {
         "name":"Dr.Strange",
         "author":"",
@@ -891,13 +1032,7 @@
         "thumbnail":"",
         "collections":"Marvel,people"
     },
-    {
-        "name":"Namaste",
-        "author":"",
-        "url":"https://formikoboric.files.wordpress.com/2019/10/bd8b2855ca12db3a8fc0ff40d68fe8ea.jpg?w=1000&h=",
-        "thumbnail":"",
-        "collections":"Marvel,people"
-    },
+
     {
         "name":"Thanos",
         "author":"",
@@ -933,6 +1068,13 @@
         "thumbnail":"",
         "collections":"Marvel,people"
     },
+
+
+
+    //Aesthetic
+
+
+
     {
         "name":"E=mc^2",
         "author":"",
