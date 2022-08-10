@@ -1,5 +1,126 @@
 [
-   {
+   
+	{
+		"name": "Good things",
+		"author": "",
+		"url": "https://i.imgur.com/QPlDdMX.jpg",
+		"thumbnail": "https://i.imgur.com/QPlDdMXh.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Don't stop",
+		"author": "",
+		"url": "https://wallpapercave.com/wp/wp2448873.jpg",
+		"thumbnail": "https://wallpapercave.com/dwp1x/wp2448873.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Happy Life",
+		"author": "",
+		"url": "https://i.imgur.com/mJh7pa4.jpg",
+		"thumbnail": "https://i.imgur.com/mJh7pa4h.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Learn to swim",
+		"author": "",
+		"url": "https://i.imgur.com/RiMhxxk.jpg",
+		"thumbnail": "https://i.imgur.com/RiMhxxkh.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "You are strong",
+		"author": "",
+		"url": "https://i.imgur.com/oadbucq.jpg",
+		"thumbnail": "https://i.imgur.com/oadbucqh.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Smart Brave Capable",
+		"author": "",
+		"url": "https://i.imgur.com/I7hU6rR.jpg",
+		"thumbnail": "https://i.imgur.com/I7hU6rRh.jpg",
+		"collections":"Quotes"
+	},
+
+	{
+		"name": "You are enough",
+		"author": "",
+		"url": "https://i.imgur.com/jeNR7YG.jpg",
+		"thumbnail": "https://i.imgur.com/jeNR7YGh.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Lemons",
+		"author": "",
+		"url": "https://i.imgur.com/60Ekux1.jpg",
+		"thumbnail": "https://i.imgur.com/60Ekux1h.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Don't Break",
+		"author": "",
+		"url": "https://i.imgur.com/Cmh1vYb.jpg",
+		"thumbnail": "https://i.imgur.com/Cmh1vYbh.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Seek",
+		"author": "",
+		"url": "https://i.imgur.com/WEzBBiQ.jpg",
+		"thumbnail": "https://i.imgur.com/WEzBBiQ.jpgh",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Second Chance",
+		"author": "",
+		"url": "https://i.imgur.com/tDebuoe.jpg",
+		"thumbnail": "https://i.imgur.com/tDebuoeh.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "It will be okay",
+		"author": "",
+		"url": "https://i.imgur.com/xPNjGBt.jpg",
+		"thumbnail": "https://i.imgur.com/xPNjGBth.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "You already have",
+		"author": "",
+		"url": "https://i.imgur.com/aA4c5QC.jpg",
+		"thumbnail": "https://i.imgur.com/aA4c5QCh.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Start",
+		"author": "",
+		"url": "https://i.imgur.com/0xa3S2F.jpg",
+		"thumbnail": "https://i.imgur.com/0xa3S2Fh.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Fold",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/00/de/0b/00de0b542587ed10f37c557d85a7411c.jpg",
+		"thumbnail": "https://i.pinimg.com/originals/00/de/0b/00de0b542587ed10f37c557d85a7411c.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Again",
+		"author": "",
+		"url": "https://i.pinimg.com/750x/b3/a1/df/b3a1df0c2f71059b35ea5a51fdd9313b.jpg",
+		"thumbnail": "https://i.pinimg.com/750x/b3/a1/df/b3a1df0c2f71059b35ea5a51fdd9313b.jpg",
+		"collections":"Quotes"
+	},
+	{
+		"name": "Step by Step",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/b7/fb/ab/b7fbab40b91310a9b5cb2f54e8c1f9a5.jpg",
+		"thumbnail": "https://i.pinimg.com/originals/b7/fb/ab/b7fbab40b91310a9b5cb2f54e8c1f9a5.jpg",
+		"collections":"Quotes"
+	},
+	{
       "name": "Zenitsu Agatsuma",
       "author": "",
       "url": "https://i.imgur.com/cabWusU.jpg",
@@ -645,7 +766,7 @@
       "name": "Minimal 18",
       "url": "https://images.unsplash.com/photo-1637511916663-93dd81076890?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWxpc3RpY3x8fHx8fDE2NTk2MjY2NjA&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "https://i.ibb.co/9Y7tw24/photo-1637511916663-93dd81076890.jpg",
-      "collections": "Minimalist"
+      "collections": "Minimalist, Black"
    },
    {
       "name": "Minimal 19",
@@ -657,7 +778,7 @@
       "name": "Minimal 20",
       "url": "https://images.unsplash.com/photo-1649608118930-70b0a62cdf62?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWxpc3RpY3x8fHx8fDE2NTk2MjY2Nzk&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "https://i.ibb.co/YQ6vgHs/photo-1649608118930-70b0a62cdf62.jpg",
-      "collections": "Minimalist"
+      "collections": "Minimalist, Black"
    },
    {
       "name": "Minimal 21",
@@ -711,7 +832,7 @@
       "name": "Minimal 29",
       "url": "https://images.unsplash.com/photo-1503669678209-c68d00b3765d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGJsYWNrfHx8fHx8MTY1OTYyOTA4Ng&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "https://i.ibb.co/qdbP5d6/photo-1503669678209-c68d00b3765d.jpg",
-      "collections": "Minimalist"
+      "collections": "Minimalist, Black"
    },
    {
       "name": "Minimal 30",
@@ -787,7 +908,7 @@
       "url": "https://images.unsplash.com/photo-1634154369165-cadcd9af7100?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTM0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/ZX2cw6s/photo-1634154369165-cadcd9af7100.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "featured,Minimalist, Black"
    },
    {
       "name": "Minimal 42",
@@ -1097,6 +1218,47 @@
       "thumbnail": "",
       "collections": "Aesthetic"
    },
+
+	{
+		"name": "Mirror Selfie",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/e6/12/44/e612447b10c6cb8d3a52303fe309c938.jpg",
+		"thumbnail": "https://i.imgur.com/QJ0B2sFh.jpg",
+		"collections":"Aesthetic"
+	},
+
+	{
+		"name": "Couples",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/13/61/e7/1361e76640c6acd112adcb44edaacb65.jpg",
+		"thumbnail": "https://i.pinimg.com/originals/13/61/e7/1361e76640c6acd112adcb44edaacb65.jpg",
+		"collections":"Aesthetic"
+	},
+
+	{
+		"name": "Touch",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/73/87/a9/7387a90f4e94c7b176951f309df4ee7b.jpg",
+		"thumbnail": "https://i.pinimg.com/originals/73/87/a9/7387a90f4e94c7b176951f309df4ee7b.jpg",
+		"collections":"Aesthetic"
+	},
+
+	{
+		"name": "Free hand",
+		"author": "",
+		"url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4bad249699931.58bca27151ee5.jpg",
+		"thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a4bad249699931.58bca27151ee5.jpg",
+		"collections":"Aesthetic"
+	},
+
+	{
+		"name": "Girl",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/1a/40/95/1a40952f3243432aac1291aa3028814b.jpg",
+		"thumbnail": "https://i.pinimg.com/originals/1a/40/95/1a40952f3243432aac1291aa3028814b.jpg",
+		"collections":"Aesthetic, Black"
+	},
+
    {
       "name": "ANother f Day",
       "author": "",
