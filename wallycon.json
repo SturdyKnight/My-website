@@ -391,8 +391,7 @@
       "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg",
       "thumbnail": "https://i.ibb.co/TTzdZPs/pexels-photo-1624496.jpg",
       "dimensions": "1920x1080",
-      "collections": "landscapes,",
-      "downloadable": false
+      "collections": "landscapes,"
    },
    {
       "name": "Red river Venus",
@@ -436,8 +435,7 @@
       "thumbnail": "https://i.ibb.co/B4BQXrn/photo-1644600854176-17d52cbe4bff.jpg",
       "dimensions": "31280x720",
       "copyright": "Free (do whatever you want)",
-      "collections": "3D Renders,people",
-      "downloadable": true
+      "collections": "3D Renders,people"
    },
    {
       "name": "Building",
