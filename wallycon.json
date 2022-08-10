@@ -1,5 +1,5 @@
 [   
-	//Skies
+	/*Skies*/
 	{
 		"name": "",
 		"author": "",
@@ -59,7 +59,10 @@
 
 
 
-    //Anime 
+    /*Anime*/
+    
+
+
 	{
 		"name": "Demon slayer",
 		"author": "",
@@ -196,7 +199,8 @@
 
 
 
-    //Beach 
+    /*Beach*/
+
 
 
     {
@@ -229,7 +233,7 @@
     },
 
      
-     //Abstract 
+     /*Abstract*/ 
 
 
     {
@@ -390,7 +394,7 @@
     },
 
 
-    //Landscape
+    /*Landscape*/
 
 
     
@@ -524,7 +528,7 @@
     },
 
 
-    //3d-Renders
+    /* 3dRenders */
 
 
     {
@@ -593,7 +597,7 @@
     },
 
 
-    //Minimal
+    /* Minimal*/
 
 
     {
@@ -883,7 +887,7 @@
     },
 
 
-    //Monuments
+    /*Monuments*/
 
 
     
@@ -945,7 +949,7 @@
     },
 
 
-    // Marvel
+    /*Marvel*/
 
 
     {
@@ -1162,7 +1166,7 @@
 
 
 
-    //Aesthetic
+    /*Aesthetic*/
 
 
 
