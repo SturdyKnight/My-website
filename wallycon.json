@@ -123,7 +123,7 @@
       "author": "Oliver Sjöström",
       "url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg",
       "thumbnail": "https://i.ibb.co/R3mxG5h/pexels-photo-1078983.jpg",
-      "collections": "Beach,landscapes"
+      "collections": "Beach, landscapes"
    },
    {
       "name": "Bali",
@@ -137,14 +137,14 @@
       "author": "visualsofdana",
       "url": "https://images.unsplash.com/photo-1613144123668-d9c705841eba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3456&q=80",
       "thumbnail": "https://images.unsplash.com/photo-1613144123668-d9c705841eba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
-      "collections": "Beach,landscapes"
+      "collections": "Beach, landscapes"
    },
    {
       "name": "Diamond Beach",
       "author": "",
       "url": "https://images.unsplash.com/photo-1573790387438-4da905039392?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3250&q=80g",
       "thumbnail": "https://images.unsplash.com/photo-1573790387438-4da905039392?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=425&q=80",
-      "collections": "Beach,landscapes"
+      "collections": "Beach, landscapes"
    },
    {
       "name": "Abstract 1",
@@ -425,7 +425,7 @@
       "url": "https://i.postimg.cc/HnswN841/undefined-Imgur.png",
       "thumbnail": "https://i.postimg.cc/HnswN841/undefined-Imgur.png",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,"
+      "collections": "landscapes"
    },
    {
       "name": "Skeleton",
