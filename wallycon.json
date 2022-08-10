@@ -140,11 +140,32 @@
 		"collections":"Anime"
 	},
 	{
-		"name": "",
+		"name": "Naruto e Hinata",
 		"author": "",
-		"url": "",
-		"thumbnail": "",
-		"collections":"",
+		"url": "https://i.pinimg.com/originals/f7/3b/ff/f73bff9abd87804335cdf36114e22473.jpg",
+		"thumbnail": "https://i.imgur.com/wsMgLhsh.jpg",
+		"collections":"Anime"
+	},
+	{
+		"name": "Naruto and Hinata",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/22/a1/0b/22a10bc80b0205bd1a14bb5333ada84d.jpg",
+		"thumbnail": "https://i.imgur.com/5ptnQFzh.jpg",
+		"collections":"Anime"
+	},
+	{
+		"name": "The end of war",
+		"author": "",
+		"url": "https://i.imgur.com/qhw3osF.png",
+		"thumbnail": "https://i.imgur.com/qhw3osFh.png",
+		"collections":"Anime"
+	},
+	{
+		"name": "Naruto",
+		"author": "",
+		"url": "https://i.pinimg.com/originals/bb/2e/e9/bb2ee99bc284f89122a1acf1f84703e6.jpg",
+		"thumbnail": "https://i.imgur.com/7mpF5xOh.jpg",
+		"collections":"Anime"
 	},
     {
       "name": "Beach",
