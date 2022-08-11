@@ -10,6 +10,28 @@
 	},
 
 	{
+		"name": "Pikka",
+		"author": "",
+		"url": "https://i.imgur.com/CqKaki4.jpg",
+		"thumbnail": "https://i.imgur.com/CqKaki4h.jpg",
+		"collections":"Backdrops"
+	},
+
+	{
+		"name": "Angry Minion",
+		"author": "",
+		"url": "https://i.imgur.com/FvwNnki.jpg",
+		"thumbnail": "https://i.imgur.com/FvwNnkih.jpg",
+		"collections":"Backdrops"
+	},
+	{
+		"name": "SUS",
+		"author": "",
+		"url": "https://i.imgur.com/RJ73TdQ.jpg",
+		"thumbnail": "https://i.imgur.com/RJ73TdQh.jpg",
+		"collections":"Backdrops"
+	},
+	{
 		"name": "Anstri in search of space",
 		"author": "",
 		"url": "https://i.imgur.com/wP56aGx.jpg",
@@ -1301,6 +1323,35 @@
       "thumbnail": "",
       "collections": "Marvel,people"
    },
+
+	{
+		"name": "4 Split",
+		"author": "",
+		"url": "https://i.imgur.com/ki7I3uB.jpg",
+		"thumbnail": "https://i.imgur.com/ki7I3uBh.jpg",
+		"collections":"Marvel,people"
+	},
+	{
+		"name": "Pikka",
+		"author": "",
+		"url": "https://i.imgur.com/jkTD4T9.jpg",
+		"thumbnail": "https://i.imgur.com/jkTD4T9h.jpg",
+		"collections":"Marvel,people"
+	},
+	{
+		"name": "Spiderman",
+		"author": "",
+		"url": "https://i.imgur.com/gcPDR5C.jpg",
+		"thumbnail": "https://i.imgur.com/gcPDR5Ch.jpg",
+		"collections":"Marvel,people"
+	},
+	{
+		"name": "IronMan",
+		"author": "",
+		"url": "https://i.imgur.com/8SuMEam.jpg",
+		"thumbnail": "https://i.imgur.com/8SuMEam.jpg",
+		"collections":"Marvel,people"
+	},
    {
       "name": "Infinity War",
       "author": "",
