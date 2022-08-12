@@ -1,6 +1,29 @@
 [
    
 	
+	
+	{
+		"name": "Top of mount view",
+		"author": "Jayesh Pathak",
+		"url": "https://i.imgur.com/a8UWWXW.jpg",
+		"thumbnail": "https://i.imgur.com/a8UWWXWh.jpg",
+		"collections":"Skies"
+	},
+
+	{
+		"name": "Sky above the leaf",
+		"author": "Jayesh Pathak",
+		"url": "https://i.imgur.com/xCmEB4z.jpg",
+		"thumbnail": "https://i.imgur.com/xCmEB4zh.jpg",
+		"collections":"Skies"
+	},
+	{
+		"name": "Blue Hole",
+		"author": "Jayesh Pathak",
+		"url": "https://i.imgur.com/ymNU7oZ.jpg",
+		"thumbnail": "https://i.imgur.com/ymNU7oZh.jpg",
+		"collections":"Skies"
+	},
 	{
 		"name": "Confused",
 		"author": "",
@@ -1328,6 +1351,13 @@
       "thumbnail": "https://i.ibb.co/yygXkc0/pexels-photo-6792006.jpg",
       "collections": "Monuments"
    },
+	{
+		"name": "Shiv Temp",
+		"author": "Jayesh Pathak",
+		"url": "https://i.imgur.com/QgfSDNe.jpg",
+		"thumbnail": "https://i.imgur.com/QgfSDNeh.jpg",
+		"collections":"Skies"
+	},
    {
       "name": "Dragon Sculpt",
       "author": "Olya Kobruseva",
