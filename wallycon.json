@@ -553,6 +553,42 @@
 		"thumbnail": "https://i.imgur.com/7mpF5xOh.jpg",
 		"collections":"Anime"
 	},
+
+	{
+		"name": "Rust Ship on beach",
+		"author": "",
+		"url": "https://i.imgur.com/kmQ78Ng.jpg",
+		"thumbnail": "https://i.imgur.com/kmQ78Ng.jpg",
+		"collections":"Beach"
+	},
+	{
+		"name": "Pineapple Nowhere",
+		"author": "",
+		"url": "https://i.imgur.com/v6UGTtt.jpg",
+		"thumbnail": "https://i.imgur.com/v6UGTtt.jpg",
+		"collections":"Beach"
+	},
+	{
+		"name": "Minimal Shore",
+		"author": "",
+		"url": "https://i.imgur.com/GmonlpY.jpg",
+		"thumbnail": "https://i.imgur.com/GmonlpY.jpg",
+		"collections":"Beach"
+	},
+	{
+		"name": "Beach Stone",
+		"author": "",
+		"url": "https://i.imgur.com/wNSEOWg.jpg",
+		"thumbnail": "https://i.imgur.com/wNSEOWg.jpg",
+		"collections":"Beach"
+	},
+	{
+		"name": "Green Water Beach",
+		"author": "",
+		"url": "https://i.imgur.com/5IYhas5.jpg",
+		"thumbnail": "https://i.imgur.com/5IYhas5.jpg",
+		"collections":"Beach"
+	},
     {
       "name": "Beach",
       "author": "Oliver Sjöström",
