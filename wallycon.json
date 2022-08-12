@@ -26,7 +26,7 @@
 	},
 
 	{
-		"name": "Plam Skies",
+		"name": "Palm Skies",
 		"author": "",
 		"url": "https://i.imgur.com/VGrjN8E.jpg",
 		"thumbnail": "https://i.imgur.com/VGrjN8Eh.jpg",
@@ -37,6 +37,42 @@
 		"author": "Jayesh Pathak",
 		"url": "https://i.imgur.com/ymNU7oZ.jpg",
 		"thumbnail": "https://i.imgur.com/ymNU7oZh.jpg",
+		"collections":"Skies"
+	},
+
+	{
+		"name": "",
+		"author": "Kenrick Mills",
+		"url": "https://i.imgur.com/t3aRcBl.jpg",
+		"thumbnail": "https://i.imgur.com/t3aRcBlh.jpg",
+		"collections":"Skies"
+	},
+	{
+		"name": "Coconut tree below skies",
+		"author": "Zach Vessels",
+		"url": "https://i.imgur.com/HOFzmNn.jpg",
+		"thumbnail": "https://i.imgur.com/HOFzmNnh.jpg",
+		"collections":"Skies"
+	},
+	{
+		"name": "Tall trees",
+		"author": "Wil Stewart",
+		"url": "https://i.imgur.com/8j4uTGP.jpg",
+		"thumbnail": "https://i.imgur.com/8j4uTGPh.jpg",
+		"collections":"Skies"
+	},
+	{
+		"name": "Palm",
+		"author": "Moises Jimenez",
+		"url": "https://i.imgur.com/9T7h7bY.jpg",
+		"thumbnail": "https://i.imgur.com/9T7h7bYh.jpg",
+		"collections":"Skies"
+	},
+	{
+		"name": "Aqua Sky",
+		"author": "",
+		"url": "https://i.imgur.com/VGrjN8E.jpg",
+		"thumbnail": "https://i.imgur.com/VGrjN8Eh.jpg",
 		"collections":"Skies"
 	},
 	{
