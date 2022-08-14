@@ -2,7 +2,43 @@
    
 	
 	
+	
 	{
+		"name": "Astro Villa",
+		"author": "",
+		"url": "https://i.imgur.com/6XGyOuI.jpg",
+		"thumbnail": "https://i.imgur.com/6XGyOuIh.jpg",
+		"collections":"SKies"
+	},
+
+	{
+		"name": "Setting clouds",
+		"author": "",
+		"url": "https://i.imgur.com/W03mFJA.jpg",
+		"thumbnail": "https://i.imgur.com/W03mFJAh.jpg",
+		"collections":"SKies"
+	},
+	{
+		"name": "Yellow Toned sky",
+		"author": "",
+		"url": "https://i.imgur.com/nR51uni.jpg",
+		"thumbnail": "https://i.imgur.com/nR51unih.jpg",
+		"collections":"SKies"
+	},
+	{
+		"name": "Smooth Escape",
+		"author": "",
+		"url": "https://i.imgur.com/1Y090IY.jpg",
+		"thumbnail": "https://i.imgur.com/1Y090IYh.jpg",
+		"collections":"SKies"
+	},
+	{
+		"name": "Purple Sky",
+		"author": "",
+		"url": "https://i.imgur.com/2N966lb.jpg",
+		"thumbnail": "https://i.imgur.com/2N966lbh.jpg",
+		"collections":"SKies"
+	},{
 		"name": "Mountain of clouds",
 		"author": "",
 		"url": "https://i.imgur.com/tusPX1A.jpg",
@@ -72,7 +108,8 @@
 		"url": "https://i.imgur.com/l4IorLG.jpg",
 		"thumbnail": "https://i.imgur.com/l4IorLGh.jpg",
 		"collections":"SKies"
-	},{
+	},
+	{
 		"name": "Pink SKies",
 		"author": "",
 		"url": "https://i.imgur.com/TJn1Rwf.jpg",
