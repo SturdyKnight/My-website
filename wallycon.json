@@ -2,7 +2,41 @@
    
 	
 	
-	
+	{
+		"name": "Mountain of clouds",
+		"author": "",
+		"url": "https://i.imgur.com/tusPX1A.jpg",
+		"thumbnail": "https://i.imgur.com/tusPX1A.jpg",
+		"collections":"SKies"
+	},
+	{
+		"name": "Hazy Sky and Water",
+		"author": "",
+		"url": "https://i.imgur.com/8LPp3WX.jpg",
+		"thumbnail": "https://i.imgur.com/8LPp3WXh.jpg",
+		"collections":"SKies"
+	},
+	{
+		"name": "Galaxy",
+		"author": "",
+		"url": "https://i.imgur.com/K0hnuTC.jpg",
+		"thumbnail": "https://i.imgur.com/K0hnuTCh.jpg",
+		"collections":"SKies"
+	},
+	{
+		"name": "Beach Sunrise",
+		"author": "",
+		"url": "https://i.imgur.com/2dVZsOy.jpg",
+		"thumbnail": "https://i.imgur.com/2dVZsOyh.jpg",
+		"collections":"SKies"
+	},
+	{
+		"name": "Sunset Sky",
+		"author": "",
+		"url": "https://i.imgur.com/MK6Izlg.jpg",
+		"thumbnail": "https://i.imgur.com/MK6Izlgh.jpg",
+		"collections":"SKies"
+	},
 	{
 		"name": "Dark pink skies",
 		"author": "",
