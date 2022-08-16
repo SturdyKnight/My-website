@@ -375,12 +375,205 @@
  [hidden] {
      display: none !important;
 }
+ #wallycon {
+     width: 10rem;
+}
+ #vibez {
+     width: 10rem;
+}
+
+ @media (min-width: 1400px) and (max-width: 3000px) {
+     #wallycon{
+         width: 8%;
+         margin-left: 47.6rem;
+    }
+     #vibez{
+        width: 8%;
+        margin-left: 5rem;
+         
+    }
+}
+
+ @media (min-width: 360px) and (max-width: 420px) {
+     #wallycon{
+         width: 30%;
+         margin-left: 3rem;
+    }
+     #vibez{
+        width: 30%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 420px) and (max-width: 500px) {
+     #wallycon{
+         width: 30%;
+         margin-left: 3.5rem;
+    }
+     #vibez{
+        width: 30%;
+        margin-left: 3rem;
+         
+    }
+}
+
+ @media (min-width: 500px) and (max-width: 650px) {
+     #wallycon{
+         width: 25%;
+         margin-left: 6rem;
+    }
+     #vibez{
+        width: 25%;
+        margin-left: 3rem;
+         
+    }
+}
+
+ @media (min-width: 600px) {
+     #wallycon{
+         width: 25%;
+         margin-left: 8rem;
+    }
+     #vibez{
+        width: 25%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 765px) {
+     #wallycon{
+         width: 20%;
+         margin-left: 12.5rem;
+    }
+     #vibez{
+        width: 20%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 900px) {
+     #wallycon{
+         width: 16%;
+         margin-left: 17.5rem;
+    }
+     #vibez{
+        width: 16%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 1000px) {
+     #wallycon{
+         width: 16%;
+         margin-left: 19rem;
+    }
+     #vibez{
+        width: 16%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 1110px) {
+     #wallycon{
+         width: 14%;
+         margin-left: 23rem;
+    }
+     #vibez{
+        width: 14%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 1200px) {
+     #wallycon{
+         width: 12%;
+         margin-left: 26.5rem;
+    }
+     #vibez{
+        width: 12%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 1200px) {
+     #wallycon{
+         width: 12%;
+         margin-left: 26.5rem;
+    }
+     #vibez{
+        width: 12%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 1300px) {
+     #wallycon{
+         width: 12%;
+         margin-left: 29rem;
+    }
+     #vibez{
+        width: 12%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 1400px) {
+     #wallycon{
+         width: 12%;
+         margin-left: 31.5rem;
+    }
+     #vibez{
+        width: 12%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 1500px) {
+     #wallycon{
+         width: 10%;
+         margin-left: 36rem;
+    }
+     #vibez{
+        width: 10%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 1600px) {
+     #wallycon{
+         width: 10%;
+         margin-left: 38rem;
+    }
+     #vibez{
+        width: 10%;
+        margin-left: 3rem;
+         
+    }
+}
+ @media (min-width: 1700px) {
+     #wallycon{
+         width: 10%;
+         margin-left: 46rem;
+    }
+     #vibez{
+        width: 10%;
+        margin-left: 3rem;
+         
+    }
+}
+
+
+
+
  #avatarsuraj {
      width: 62.2%;
 }
  #avatarsangharaj {
      width: 62.2%;
 }
+
+
+
  @media (min-width: 360px) {
      #avatarsuraj{
          width: 21%;
@@ -9609,8 +9802,7 @@
     }
 }
  .footer {
-     padding-top: 5rem;
-     padding-bottom: 5rem;
+     margin-top: 20rem;
      background-color: #e1de5e;
      color: #fff;
 }
