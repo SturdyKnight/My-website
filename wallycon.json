@@ -1,6 +1,20 @@
 [
    
    {
+		"name": "Leopard",
+		"author": "",
+		"url": "https://i.imgur.com/gyJkIuJ.jpg",
+		"thumbnail": "https://i.imgur.com/gyJkIuJh.jpg",
+		"collections":"Animals"
+	},
+	{
+		"name": "Lion",
+		"author": "",
+		"url": "https://i.imgur.com/anxkLw5.jpg",
+		"thumbnail": "https://i.imgur.com/anxkLw5h.jpg",
+		"collections":"Animals"
+	},
+	{
 		"name": "Continental GT",
 		"author": "",
 		"url": "https://i.imgur.com/JuDrPkm.jpg",
