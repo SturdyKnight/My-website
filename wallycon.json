@@ -1,6 +1,41 @@
 [
    
    {
+		"name": "Leafy",
+		"author": "",
+		"url": "https://i.imgur.com/Lpa3trU.jpg",
+		"thumbnail": "https://i.imgur.com/Lpa3trUh.jpg",
+		"collections":""
+	},
+	{
+		"name": "Beachy Shore",
+		"author": "",
+		"url": "https://i.imgur.com/l0JEECB.jpg",
+		"thumbnail": "https://i.imgur.com/l0JEECBh.jpg",
+		"collections":""
+	},
+	{
+		"name": "Night Light",
+		"author": "",
+		"url": "https://i.imgur.com/IEALocy.jpg",
+		"thumbnail": "https://i.imgur.com/IEALocyh.jpg",
+		"collections":""
+	},
+	{
+		"name": "Aesthetic Rose",
+		"author": "",
+		"url": "https://i.imgur.com/z0dmvle.jpg",
+		"thumbnail": "https://i.imgur.com/z0dmvleh.jpg",
+		"collections":""
+	},
+	{
+		"name": "Sky Line through buildings",
+		"author": "",
+		"url": "https://i.imgur.com/TEWQmqJ.jpg",
+		"thumbnail": "https://i.imgur.com/TEWQmqJh.jpg",
+		"collections":"Landscapes"
+	},
+	{
 		"name": "Leopard",
 		"author": "",
 		"url": "https://i.imgur.com/gyJkIuJ.jpg",
@@ -61,7 +96,7 @@
 		"author": "",
 		"url": "https://i.imgur.com/jJJkd9t.jpg",
 		"thumbnail": "https://i.imgur.com/jJJkd9th.jpg",
-		"collections":"landscapes,featured"
+		"collections":"Landscapes,Featured"
 	},
 	{
 		"name": "Micro Leaf",
@@ -943,274 +978,274 @@
       "author": "Oliver Sjöström",
       "url": "https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg",
       "thumbnail": "https://i.ibb.co/R3mxG5h/pexels-photo-1078983.jpg",
-      "collections": "Beach, landscapes"
+      "collections": "Beach, Landscapes"
    },
    {
       "name": "Bali",
       "author": "Majid Azim",
       "url": "https://images.unsplash.com/photo-1604472279981-646df055467f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2250&q=80",
       "thumbnail": "https://images.unsplash.com/photo-1604472279981-646df055467f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
-      "collections": "Beach, landscapes"
+      "collections": "Beach, Landscapes"
    },
    {
       "name": "Shore",
       "author": "visualsofdana",
       "url": "https://images.unsplash.com/photo-1613144123668-d9c705841eba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3456&q=80",
       "thumbnail": "https://images.unsplash.com/photo-1613144123668-d9c705841eba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
-      "collections": "Beach, landscapes"
+      "collections": "Beach, Landscapes"
    },
    {
       "name": "Diamond Beach",
       "author": "",
       "url": "https://images.unsplash.com/photo-1573790387438-4da905039392?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3250&q=80g",
       "thumbnail": "https://images.unsplash.com/photo-1573790387438-4da905039392?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=425&q=80",
-      "collections": "Beach, landscapes"
+      "collections": "Beach, Landscapes"
    },
    {
       "name": "Abstract 1",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/Floating-2-1.png",
       "thumbnail": "https://i.ibb.co/HxwJ5Rx/Floating-2-1.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 2",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/Floating-3-1.png",
       "thumbnail": "https://i.ibb.co/DbfZgFS/Floating-3-1.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 3",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/Floating-4.png",
       "thumbnail": "https://i.ibb.co/VpC2jGV/Floating-4.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 4",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/Floating-6.png",
       "thumbnail": "https://i.ibb.co/wW1ZrWJ/Floating-6.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 5",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/Floating-5.jpg",
       "thumbnail": "https://i.ibb.co/9Ts11bn/Floating-5.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 6",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/PiecesOfG-1.jpg",
       "thumbnail": "https://i.ibb.co/W3w8Kgx/Pieces-Of-G-1.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 7",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/PiecesOfG-2.jpg",
       "thumbnail": "https://i.ibb.co/jWYH4MR/Pieces-Of-G-2.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 8",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/PiecesOfG-3.jpg",
       "thumbnail": "https://i.ibb.co/19f7cqy/Pieces-Of-G-3.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 9",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/PiecesOfG-4.jpg",
       "thumbnail": "https://i.ibb.co/64QJMFR/Pieces-Of-G-4.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 10",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/PiecesOfG-5.jpg",
       "thumbnail": "https://i.ibb.co/BsNtyB0/Pieces-Of-G-5.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 11",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/PiecesOfG-6.jpg",
       "thumbnail": "https://i.ibb.co/LJFsFzW/Pieces-Of-G-6.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 12",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Motif/Floating-1-1.png",
       "thumbnail": "https://i.ibb.co/bW2f3G3/Floating-1-1.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 13",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/1.png",
       "thumbnail": "https://i.ibb.co/JFyFwBL/1.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 14",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/10.png",
       "thumbnail": "https://i.ibb.co/WxTNcd8/10.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 15",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/11.png",
       "thumbnail": "https://i.ibb.co/3TXPZZB/11.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 16",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/12.png",
       "thumbnail": "https://i.ibb.co/G3kp8zg/12.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 17",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/13.png",
       "thumbnail": "https://i.ibb.co/3cHJzy0/13.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 18",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/14.png",
       "thumbnail": "https://i.ibb.co/3F5L4Jw/14.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 19",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/2.png",
       "thumbnail": "https://i.ibb.co/L9mHXdw/2.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 20",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/3.png",
       "thumbnail": "https://i.ibb.co/vjKyTxX/3.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 21",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/4.png",
       "thumbnail": "https://i.ibb.co/KhVM7b5/4.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 22",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/5.png",
       "thumbnail": "https://i.ibb.co/yYL6Hpd/5.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 23",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/6.png",
       "thumbnail": "https://i.ibb.co/RS5WRsT/6.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 24",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/7.png",
       "thumbnail": "https://i.ibb.co/QjspR1X/7.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 25",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/8.png",
       "thumbnail": "https://i.ibb.co/6YgR3FD/8.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Abstract 26",
       "url": "https://raw.githubusercontent.com/wacko1805/google-pixel-wallpapers-images/main/Pixel-6-art/9.png",
       "thumbnail": "https://i.ibb.co/Y7j41wY/9.jpg",
-      "collections": "abstract"
+      "collections": "Abstract"
    },
    {
       "name": "Night Aura",
       "author": "Benjamin Suter",
       "url": "https://images.pexels.com/photos/3617500/pexels-photo-3617500.jpeg",
       "thumbnail": "https://i.ibb.co/SNm8pvt/pexels-photo-3617500.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Mountain Range",
       "author": "eberhard grossgasteiger",
       "url": "https://images.pexels.com/photos/1670187/pexels-photo-1670187.jpeg",
       "thumbnail": "https://i.ibb.co/nsHH68X/pexels-photo-1670187.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "A Ferry Boat",
       "author": "ibookrt",
       "url": "https://images.pexels.com/photos/8383572/pexels-photo-8383572.jpeg",
       "thumbnail": "https://i.ibb.co/sHgDkQg/pexels-photo-8383572.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "View of mountains",
       "author": "Atahan Demir",
       "url": "https://images.pexels.com/photos/10920818/pexels-photo-10920818.jpeg",
       "thumbnail": "https://i.ibb.co/P4jG8N5/pexels-photo-10920818.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Landscape 1",
       "author": "someone",
       "url": "https://images.pexels.com/photos/3565742/pexels-photo-3565742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "thumbnail": "https://i.ibb.co/f8gf9bR/pexels-photo-3565742.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Landscape 2",
       "url": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjI1MDk&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "https://i.ibb.co/GRmsLWn/photo-1501785888041-af3ef285b470.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Landscape 3",
       "url": "https://images.unsplash.com/photo-1554147090-e1221a04a025?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2400&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjI3MDg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "https://i.ibb.co/PgbrX3M/photo-1554147090-e1221a04a025.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Landscape 4",
       "url": "https://images.unsplash.com/photo-1575761344173-aa186491c120?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjI4NDI&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Landscape 5",
       "url": "https://images.unsplash.com/photo-1499988921418-b7df40ff03f9?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjI4OTU&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "https://i.ibb.co/MfspR2q/photo-1499988921418-b7df40ff03f9.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Landscape 6",
       "url": "https://images.unsplash.com/photo-1524799526615-766a9833dec0?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjMxNzg&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "https://i.ibb.co/hDRHV36/photo-1524799526615-766a9833dec0.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Landscape 7",
       "url": "https://i.imgur.com/z51qoYj.jpg",
       "thumbnail": "https://i.imgur.com/z51qoYjh.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Landscape 8",
       "url": "https://images.unsplash.com/photo-1507608869274-d3177c8bb4c7?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjMxODI&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "https://i.ibb.co/mNm7L06/photo-1507608869274-d3177c8bb4c7.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Landscape 8",
       "url": "https://images.unsplash.com/photo-1476673160081-cf065607f449?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=2340&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLGxhbmRzY2FwZXx8fHx8fDE2NTk2MjMxODM&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1080",
       "thumbnail": "https://i.ibb.co/Vpwr5nk/photo-1476673160081-cf065607f449.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Magical Sky",
       "author": "Someone",
       "url": "https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg",
       "thumbnail": "https://i.ibb.co/TTzdZPs/pexels-photo-1624496.jpg",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Red river Venus",
@@ -1219,7 +1254,7 @@
       "thumbnail": "https://i.postimg.cc/1XTN81yd/Red-river-of-Venus26358-rectangle.jpg",
       "dimensions": "450x800",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Solar system",
@@ -1228,7 +1263,7 @@
       "thumbnail": "https://i.postimg.cc/XYhCgDzW/837258.png",
       "dimensions": "1280x720",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Red Minima Mountain",
@@ -1237,7 +1272,7 @@
       "thumbnail": "https://i.postimg.cc/wxZYgXZv/885155.jpg",
       "dimensions": "1280x720",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Rail Night",
@@ -1245,7 +1280,7 @@
       "url": "https://i.postimg.cc/HnswN841/undefined-Imgur.png",
       "thumbnail": "https://i.postimg.cc/HnswN841/undefined-Imgur.png",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes"
+      "collections": "Landscapes"
    },
    {
       "name": "Skeleton",
@@ -1254,7 +1289,7 @@
       "thumbnail": "https://i.ibb.co/B4BQXrn/photo-1644600854176-17d52cbe4bff.jpg",
       "dimensions": "31280x720",
       "copyright": "Free (do whatever you want)",
-      "collections": "3D Renders,people"
+      "collections": "3D Renders,People"
    },
    {
       "name": "Building",
@@ -1272,7 +1307,7 @@
       "thumbnail": "https://i.ibb.co/0Q3f6Lv/photo-1644313141721-dbc12d922e60.jpg",
       "dimensions": "1280x720",
       "copyright": "Free (do whatever you want)",
-      "collections": "landscapes,3D Renders"
+      "collections": "Landscapes,3D Renders"
    },
    {
       "name": "Pink paper tree",
@@ -1516,105 +1551,105 @@
       "url": "https://images.unsplash.com/photo-1493552152660-f915ab47ae9d?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTM4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/MBhVdRR/photo-1493552152660-f915ab47ae9d.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 33",
       "url": "https://images.unsplash.com/photo-1502809737437-1d85c70dd2ca?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTcz&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/wdy8GVQ/photo-1502809737437-1d85c70dd2ca.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 34",
       "url": "https://images.unsplash.com/photo-1502743780242-f10d2ce370f3?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQ0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/QmTLRQP/photo-1502743780242-f10d2ce370f3.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 35",
       "url": "https://images.unsplash.com/photo-1493723843671-1d655e66ac1c?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQw&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/VQ7nrkR/photo-1493723843671-1d655e66ac1c.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 36",
       "url": "https://images.unsplash.com/photo-1498335746477-0c73d7353a07?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTUy&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/Qdwyvx0/photo-1498335746477-0c73d7353a07.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 37",
       "url": "https://images.unsplash.com/photo-1497005367839-6e852de72767?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQ2&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/M5cMLXF/photo-1497005367839-6e852de72767.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 38",
       "url": "https://images.unsplash.com/photo-1491947153227-33d59da6c448?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQ5&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/6HHrN7Q/photo-1491947153227-33d59da6c448.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 39",
       "url": "https://images.unsplash.com/photo-1517586979036-b7d1e86b3345?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWwgc2hhZG93fHx8fHx8MTY1OTcwMDQ3Ng&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/XCRm7R6/photo-1517586979036-b7d1e86b3345.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 40",
       "url": "https://images.unsplash.com/photo-1526545208836-2364475bc672?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLG1pbmltYWwgc2hhZG93fHx8fHx8MTY1OTcwMDQ3OQ&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/f8GkCqT/photo-1526545208836-2364475bc672.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 41",
       "url": "https://images.unsplash.com/photo-1634154369165-cadcd9af7100?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTM0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/ZX2cw6s/photo-1634154369165-cadcd9af7100.jpg",
-      "collections": "featured,Minimalist, Black"
+      "collections": "Featured,Minimalist, Black"
    },
    {
       "name": "Minimal 42",
       "url": "https://images.unsplash.com/photo-1560406146-78f8cb5e0fbe?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTM1&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/jbDYpCG/photo-1560406146-78f8cb5e0fbe.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 43",
       "url": "https://images.unsplash.com/photo-1531062655013-ebcacdf1c350?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTM3&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/dr3SpJM/photo-1531062655013-ebcacdf1c350.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 44",
       "url": "https://images.unsplash.com/photo-1531265726475-52ad60219627?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/cF1Dcpx/photo-1531265726475-52ad60219627.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 45",
       "url": "https://images.unsplash.com/photo-1475965894430-b05c9d13568a?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTQ4&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/5TwdFSQ/photo-1475965894430-b05c9d13568a.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
    {
       "name": "Minimal 46",
       "url": "https://images.unsplash.com/photo-1504548840739-580b10ae7715?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=3120&ixid=MnwxfDB8MXxyYW5kb218MHx8d2FsbHBhcGVyLE1pbmltYWxpc218fHx8fHwxNjU5NzAwOTU0&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1440",
       "dimensions": "1440x3120",
       "thumbnail": "https://i.ibb.co/jkgL3n2/photo-1504548840739-580b10ae7715.jpg",
-      "collections": "featured,Minimalist"
+      "collections": "Featured,Minimalist"
    },
 
    
@@ -1738,49 +1773,49 @@
       "author": "",
       "url": "https://64.media.tumblr.com/c1327dc31c96bbee6c19e8d2a43269a2/tumblr_p3hbk4ue4h1uamz4jo7_1280.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Hello Mr. Strange",
       "author": "",
       "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ec89278a-40ca-48b4-970f-e1daf6ea23cc/dd871tj-1fbff8ad-0368-4a7f-8c2f-85a6385597c9.jpg/v1/fill/w_900,h_1437,q_75,strp/gangsthanos__by_adagadegelo_dd871tj-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTQzNyIsInBhdGgiOiJcL2ZcL2VjODkyNzhhLTQwY2EtNDhiNC05NzBmLWUxZGFmNmVhMjNjY1wvZGQ4NzF0ai0xZmJmZjhhZC0wMzY4LTRhN2YtOGMyZi04NWE2Mzg1NTk3YzkuanBnIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Mn7FhjE7o3FmLLMgFQwtQSfYmr-qdlGZJuQ3A9ueyUM",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Fuck you",
       "author": "",
       "url": "https://i.pinimg.com/originals/9a/92/71/9a9271c9fcc8f012323ed52474229596.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Say Cheese",
       "author": "",
       "url": "https://i.pinimg.com/originals/9a/92/71/9a9271c9fcc8f012323ed52474229596.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "One More",
       "author": "",
       "url": "https://i.pinimg.com/originals/84/28/33/8428334151d87ce4d262203ff5dd77a5.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Loser",
       "author": "",
       "url": "https://i.pinimg.com/originals/6b/18/5c/6b185cad82c61b829f2b19ddf8619223.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Illustration",
       "author": "",
       "url": "https://i.redd.it/lwp8nfv0hup31.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
 
 	{
@@ -1788,189 +1823,189 @@
 		"author": "",
 		"url": "https://i.imgur.com/ki7I3uB.jpg",
 		"thumbnail": "https://i.imgur.com/ki7I3uBh.jpg",
-		"collections":"Marvel,people"
+		"collections":"Marvel,People"
 	},
 	{
 		"name": "Pikka",
 		"author": "",
 		"url": "https://i.imgur.com/jkTD4T9.jpg",
 		"thumbnail": "https://i.imgur.com/jkTD4T9h.jpg",
-		"collections":"Marvel,people"
+		"collections":"Marvel,People"
 	},
 	{
 		"name": "Spiderman",
 		"author": "",
 		"url": "https://i.imgur.com/gcPDR5C.jpg",
 		"thumbnail": "https://i.imgur.com/gcPDR5Ch.jpg",
-		"collections":"Marvel,people"
+		"collections":"Marvel,People"
 	},
 	{
 		"name": "IronMan",
 		"author": "",
 		"url": "https://i.imgur.com/8SuMEam.jpg",
 		"thumbnail": "https://i.imgur.com/8SuMEam.jpg",
-		"collections":"Marvel,people"
+		"collections":"Marvel,People"
 	},
    {
       "name": "Infinity War",
       "author": "",
       "url": "https://www.itl.cat/pngfile/big/55-551460_neon-avengers-parallax-wallpapers.jpg",
       "thumbnail": "https://i.ibb.co/ypwXmvx/55-551460-neon-avengers-parallax-wallpapers.jpg",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Black Panther ",
       "author": "",
       "url": "https://w0.peakpx.com/wallpaper/759/286/HD-wallpaper-avengers-electric-electric-blue-magenta-dark-theme-night-dark-mode-marvel-bgmi-amoled-dark-black-panther-pubg-dark.jpg",
       "thumbnail": "https://w0.peakpx.com/wallpaper/759/286/HD-wallpaper-avengers-electric-electric-blue-magenta-dark-theme-night-dark-mode-marvel-bgmi-amoled-dark-black-panther-pubg-dark.jpg",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Black Panther",
       "author": "",
       "url": "https://www.itl.cat/pngfile/big/1-17613_neon-avengers-parallax-wallpapers-for-iphone-8-marvel.jpg",
       "thumbnail": "https://www.itl.cat/pngfile/big/1-17613_neon-avengers-parallax-wallpapers-for-iphone-8-marvel.jpg",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Deadpool",
       "author": "",
       "url": "https://www.teahub.io/photos/full/354-3540128_deadpool-wallpaper-face.jpg",
       "thumbnail": "https://www.teahub.io/photos/full/354-3540128_deadpool-wallpaper-face.jpg",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Miniature",
       "author": "",
       "url": "https://static.wixstatic.com/media/5dd4fd_d5231f2e982e4f41a19f1a21d45619e9~mv2.jpg/v1/fill/w_710,h_1498,al_c,q_90/5dd4fd_d5231f2e982e4f41a19f1a21d45619e9~mv2.webp",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Avengers",
       "author": "",
       "url": "https://64.media.tumblr.com/051fa4b896350c879b685f92ff920ea9/tumblr_p3hbk4ue4h1uamz4jo6_1280.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "IronMan",
       "author": "",
       "url": "https://64.media.tumblr.com/e1d4a9ad41e09b29361aad80e24b81a7/tumblr_p3hbk4ue4h1uamz4jo2_1280.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Captain America",
       "author": "",
       "url": "https://64.media.tumblr.com/75f2ca5bb016f7eb242fb9dc4f899ca3/tumblr_p3hbk4ue4h1uamz4jo3_1280.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Spidey",
       "author": "",
       "url": "https://64.media.tumblr.com/789d7a0b786c6543424d23da7b45f3ad/tumblr_p3hbk4ue4h1uamz4jo4_1280.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Hulk",
       "author": "",
       "url": "https://64.media.tumblr.com/262391f64f807ae334edcde0cea835c0/tumblr_p3hbk4ue4h1uamz4jo5_1280.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Scarlett",
       "author": "",
       "url": "https://64.media.tumblr.com/729cd3716ccec38111c135db5c2669e7/tumblr_p3hbk4ue4h1uamz4jo8_1280.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Assemble",
       "author": "",
       "url": "https://64.media.tumblr.com/9a7df1a1d701b71021b40a62d3199219/tumblr_ohqk4cGDcR1uk58d3o1_1280.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Mini Avengers",
       "author": "",
       "url": "https://64.media.tumblr.com/bebe279591c8740b8c2fbb949cd7fc8b/tumblr_ohqk4cGDcR1uk58d3o3_1280.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Mission Avenger",
       "author": "",
       "url": "https://64.media.tumblr.com/9392c96050e5d5fa680919c274f293b6/tumblr_ohqk4cGDcR1uk58d3o2_1280.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Comic Header 1",
       "author": "",
       "url": "https://fsa.zobj.net/crop.php?r=pBPBLimpvp8gILrWhY_SOe8zgLufNvUHcznDBOPruPl9xaATPd-ZzyXZWJc8dV9F7DibAenIUC0IpjWYqfUtPW7gAUS_PQTw0Qhj9OMDbYEU8jYFtgPAJrousfRUAyKMan8yKHIpSQbF-DKZWRheUW4GF4ggQOGahYdwfACJ-6a2CrhI_YSeOg311WJw06LCZvbTosLwErDQrXye",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Poster",
       "author": "",
       "url": "https://i.pinimg.com/originals/06/15/ed/0615ed79327106349a47d5d79dc7da28.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "IronMan",
       "author": "",
       "url": "https://cdn.wallpapersafari.com/9/58/6i5ZRD.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Endgame Screenprint",
       "author": "",
       "url": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9946d787699405.5dc07056caea3.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Thanos",
       "author": "",
       "url": "https://img-9gag-fun.9cache.com/photo/a1QA1KY_700bwp.webp",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "No way home ",
       "author": "",
       "url": "https://64.media.tumblr.com/c6fa6824505fd36671780ababa3cd124/2e31a68bac6f4c8e-5b/s2048x3072/78cf41e5a73f7deb952c7ad01c2a5d3622abe69b.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "No Stairs",
       "author": "",
       "url": "https://64.media.tumblr.com/e76ed719e9afb92e489d52014d8c0145/tumblr_pr95kv8a0q1xpjiuvo4_1280.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "I Love you 3000",
       "author": "",
       "url": "https://64.media.tumblr.com/14e3a7a00b12d1b627bf7989afb18c23/tumblr_pr95kv8a0q1xpjiuvo2_1280.png",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "Say Cheese",
       "author": "",
       "url": "https://i.pinimg.com/originals/9a/92/71/9a9271c9fcc8f012323ed52474229596.jpg",
       "thumbnail": "",
-      "collections": "Marvel,people"
+      "collections": "Marvel,People"
    },
    {
       "name": "E=mc^2",
