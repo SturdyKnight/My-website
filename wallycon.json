@@ -1,7 +1,8 @@
 [
    
    
-   {
+
+ 	{
 		"name": "Asteroid",
 		"author": "",
 		"url": "https://i.imgur.com/79HHpha.jpg",
@@ -28,12 +29,188 @@
 		"url": "https://i.imgur.com/W13vYIt.jpg",
 		"thumbnail": "https://i.imgur.com/W13vYIth.jpg",
 		"collections":""
-	},{
+	},
+	{
 		"name": "Planet",
 		"author": "",
 		"url": "https://i.imgur.com/ELfszCc.jpg",
 		"thumbnail": "https://i.imgur.com/ELfszCch.jpg",
 		"collections":""
+	},
+	{
+		"name": "Glowing Skel",
+		"author": "Shrinath",
+		"url": "https://i.imgur.com/YbXHjwF.jpg",
+		"thumbnail": "https://i.imgur.com/YbXHjwFh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Red Skel",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/zz6fW8H.jpg",
+		"thumbnail": "https://i.imgur.com/zz6fW8Hh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Astronaut with Umbrella",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/7o55Dby.jpg",
+		"thumbnail": "https://i.imgur.com/7o55Dbyh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Astronaut flying",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/QgfQrH9.jpg",
+		"thumbnail": "https://i.imgur.com/QgfQrH9h.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Astro in Triangle",
+		"author": "Dzmitry Tselabionak",
+		"url": "https://i.imgur.com/3mPXPH6.jpg",
+		"thumbnail": "https://i.imgur.com/3mPXPH6h.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Silhouette",
+		"author": "Marco Damm",
+		"url": "https://i.imgur.com/Vt4ytiy.jpg",
+		"thumbnail": "https://i.imgur.com/Vt4ytiyh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Fluido Cube",
+		"author": "Oscar Mackey",
+		"url": "https://i.imgur.com/KwDwxjE.jpg",
+		"thumbnail": "https://i.imgur.com/KwDwxjEh.jpg",
+		"collections":"3D Renders, Backdrops, Black"
+	},
+	{
+		"name": "Car with reflection in water",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/fxufCKo.jpg",
+		"thumbnail": "https://i.imgur.com/fxufCKoh.jpg",
+		"collections":"3D Renders, Backdrops, Vehicle"
+	},
+	{
+		"name": "Cube",
+		"author": "Pramod Tiwari",
+		"url": "https://i.imgur.com/ZlZKs5D.jpg",
+		"thumbnail": "https://i.imgur.com/ZlZKs5Dh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Silhouette of a car",
+		"author": "",
+		"url": "https://i.imgur.com/HnLdmBV.jpg",
+		"thumbnail": "https://i.imgur.com/HnLdmBVh.jpg",
+		"collections":"3D Renders, Backdrops, Vehicle"
+	},
+	{
+		"name": "Foggy building",
+		"author": "ALex Sh",
+		"url": "https://i.imgur.com/n6mqlTt.jpg",
+		"thumbnail": "https://i.imgur.com/n6mqlTth.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Orange toned car",
+		"author": "",
+		"url": "https://i.imgur.com/ImWUMAs.jpg",
+		"thumbnail": "https://i.imgur.com/ImWUMAsh.jpg",
+		"collections":"3D Renders, Backdrops, Vehicle"
+	},
+	{
+		"name": "Lightened Car",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/vEKDQbs.jpg",
+		"thumbnail": "https://i.imgur.com/vEKDQbsh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Car in Lavander",
+		"author": "Felipe Dolce",
+		"url": "https://i.imgur.com/3VbBzEj.jpg",
+		"thumbnail": "https://i.imgur.com/3VbBzEjh.jpg",
+		"collections":"3D Renders, Backdrops, Vehicle"
+	},
+	{
+		"name": "Modern+Vintage",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/5lI5ova.jpg",
+		"thumbnail": "https://i.imgur.com/5lI5ovah.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "FLoating Car",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/UpjZHCY.jpg",
+		"thumbnail": "https://i.imgur.com/UpjZHCYh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Car-o-Whale",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/eg4mf1I.jpg",
+		"thumbnail": "https://i.imgur.com/eg4mf1Ih.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Mars Landing",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/wL6nPAW.jpg",
+		"thumbnail": "https://i.imgur.com/wL6nPAWh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Pink Car Render",
+		"author": "",
+		"url": "https://i.imgur.com/EGomdjY.jpg",
+		"thumbnail": "https://i.imgur.com/EGomdjYh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Car in Mountain",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/MPELBJ8.jpg",
+		"thumbnail": "https://i.imgur.com/MPELBJ8h.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Hallow Cubes",
+		"author": "Steve Johnson",
+		"url": "https://i.imgur.com/1deQgaF.jpg",
+		"thumbnail": "https://i.imgur.com/1deQgaFh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Plant Render",
+		"author": "Brecht Corbeel",
+		"url": "https://i.imgur.com/dpuW4io.jpg",
+		"thumbnail": "https://i.imgur.com/dpuW4ioh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Yellow Maze",
+		"author": "Arthur Mazi",
+		"url": "https://i.imgur.com/wFC2alp.jpg",
+		"thumbnail": "https://i.imgur.com/wFC2alph.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "White maze",
+		"author": "Arthur Mazi",
+		"url": "https://i.imgur.com/nqQU2DW.jpg",
+		"thumbnail": "https://i.imgur.com/nqQU2DWh.jpg",
+		"collections":"3D Renders, Backdrops"
+	},
+	{
+		"name": "Red maze",
+		"author": "Arthur Mazi",
+		"url": "https://i.imgur.com/ndknqqz.jpg",
+		"thumbnail": "https://i.imgur.com/ndknqqzh.jpg",
+		"collections":"3D Renders, Backdrops"
 	},
 	{
 		"name": "Frog",
@@ -43,13 +220,6 @@
 		"collections":"Animals"
 	},
 	{
-		"name": "Bird",
-		"author": "",
-		"url": "https://i.imgur.com/8rbHUmv.jpg",
-		"thumbnail": "https://i.imgur.com/8rbHUmvh.jpg",
-		"collections":""
-	},
-	{
 		"name": "Car",
 		"author": "",
 		"url": "https://i.imgur.com/gsrwTdl.jpg",
@@ -57,39 +227,32 @@
 		"collections":"3D Renders, Backdrops"
 	},
 	{
-		"name": "Leafy",
+		"name": "Xmas Leafy",
 		"author": "",
 		"url": "https://i.imgur.com/wNdCms6.jpg",
 		"thumbnail": "https://i.imgur.com/wNdCms6h.jpg",
-		"collections":""
+		"collections":"Nature"
 	},
 	{
 		"name": "Leafy",
 		"author": "",
 		"url": "https://i.imgur.com/Lpa3trU.jpg",
 		"thumbnail": "https://i.imgur.com/Lpa3trUh.jpg",
-		"collections":""
+		"collections":"Nature"
 	},
 	{
 		"name": "Beachy Shore",
 		"author": "",
 		"url": "https://i.imgur.com/l0JEECB.jpg",
 		"thumbnail": "https://i.imgur.com/l0JEECBh.jpg",
-		"collections":""
-	},
-	{	
-		"name": "Night Light",
-		"author": "",
-		"url": "https://i.imgur.com/IEALocy.jpg",
-		"thumbnail": "https://i.imgur.com/IEALocyh.jpg",
-		"collections":""
+		"collections":"Beach"
 	},
 	{
 		"name": "Aesthetic Rose",
 		"author": "",
 		"url": "https://i.imgur.com/z0dmvle.jpg",
 		"thumbnail": "https://i.imgur.com/z0dmvleh.jpg",
-		"collections":""
+		"collections":"Aesthetic"
 	},
 	{
 		"name": "Sky Line through buildings",
@@ -241,7 +404,7 @@
 	},
 	{
 		"name": "Yellow Toned sky",
-		"author": "",
+		"author": "Cash Macanaya",
 		"url": "https://i.imgur.com/nR51uni.jpg",
 		"thumbnail": "https://i.imgur.com/nR51unih.jpg",
 		"collections":"SKies"
