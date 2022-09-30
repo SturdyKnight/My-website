@@ -2,6 +2,40 @@
    
    
    {
+		"name": "Asteroid",
+		"author": "",
+		"url": "https://i.imgur.com/79HHpha.jpg",
+		"thumbnail": "https://i.imgur.com/79HHphah.jpg",
+		"collections":"SKies"
+	},
+	{
+		"name": "Skull",
+		"author": "",
+		"url": "https://i.imgur.com/HzRb1z0.jpg",
+		"thumbnail": "https://i.imgur.com/HzRb1z0h.jpg",
+		"collections":"3D Renders"
+	},
+	{
+		"name": "Sunset",
+		"author": "",
+		"url": "https://i.imgur.com/8ogHxCk.jpg",
+		"thumbnail": "https://i.imgur.com/8ogHxCkh.jpg",
+		"collections":"Featured"
+	},
+	{
+		"name": "Planet",
+		"author": "",
+		"url": "https://i.imgur.com/W13vYIt.jpg",
+		"thumbnail": "https://i.imgur.com/W13vYIth.jpg",
+		"collections":""
+	},{
+		"name": "Planet",
+		"author": "",
+		"url": "https://i.imgur.com/ELfszCc.jpg",
+		"thumbnail": "https://i.imgur.com/ELfszCch.jpg",
+		"collections":""
+	},
+	{
 		"name": "Frog",
 		"author": "",
 		"url": "https://i.imgur.com/myjrvBb.jpg",
