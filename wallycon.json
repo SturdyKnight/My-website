@@ -87,13 +87,6 @@
 		"collections":"Beach"
 	},
 	{
-		"name": "Water",
-		"author": "Wolfgang Hasselmann",
-		"url": "https://i.imgur.com/riC4LCl.jpg",
-		"thumbnail": "https://i.imgur.com/riC4LClh.jpg",
-		"collections":"Quotes"
-	},
-	{
 		"name": "Water Drop",
 		"author": "",
 		"url": "https://i.imgur.com/Uo8bbON.jpg",
@@ -105,13 +98,6 @@
 		"author": "Maximilian Müller",
 		"url": "https://i.imgur.com/3tFUh1H.jpg",
 		"thumbnail": "https://i.imgur.com/3tFUh1Hh.jpg",
-		"collections":"3D Renders"
-	},
-	{
-		"name": "Pumkin",
-		"author": "Bastian Riccardi",
-		"url": "https://i.imgur.com/gY8Ecou.jpg",
-		"thumbnail": "https://i.imgur.com/gY8Ecouh.jpg",
 		"collections":"3D Renders"
 	},
 	{
