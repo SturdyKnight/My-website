@@ -2,7 +2,56 @@
    
    
 
- 	{
+	{
+		"name": "Parrot",
+		"author": "Kevin Mueller",
+		"url": "https://i.imgur.com/Swz8e9C.jpg",
+		"thumbnail": "https://i.imgur.com/Swz8e9Ch.jpg",
+		"collections":"Animals"
+	},
+	{
+		"name": "Eiffel Tower",
+		"author": "Liam Martens",
+		"url": "https://i.imgur.com/41z4wiK.jpg",
+		"thumbnail": "https://i.imgur.com/41z4wiKh.jpg",
+		"collections":"Monuments"
+	},
+	{
+		"name": "Gate Way Of India",
+		"author": "Shalendra Kumar",
+		"url": "https://i.imgur.com/pDKOkgt.jpg",
+		"thumbnail": "https://i.imgur.com/pDKOkgth.jpg",
+		"collections":"Monuments"
+	},
+	{
+		"name": "Valley Sunrise",
+		"author": "v2osk",
+		"url": "https://i.imgur.com/5DwGGrw.jpg",
+		"thumbnail": "https://i.imgur.com/5DwGGrwh.jpg",
+		"collections":"Nature"
+	},
+	{
+		"name": "Road besides waterways",
+		"author": "Tanya Grypachevskaya",
+		"url": "https://i.imgur.com/quhSAOh.jpg",
+		"thumbnail": "https://i.imgur.com/quhSAOhh.jpg",
+		"collections":"Landscapes"
+	},
+	{
+		"name": "View of a Building",
+		"author": "Jayy Torres",
+		"url": "https://i.imgur.com/uicgG2K.jpg",
+		"thumbnail": "https://i.imgur.com/uicgG2Kh.jpg",
+		"collections":"Landscapes"
+	},
+	{
+		"name": "Bench in the Garden",
+		"author": "Egzon Muliqi",
+		"url": "https://i.imgur.com/iOLkDgR.jpg",
+		"thumbnail": "https://i.imgur.com/iOLkDgRh.jpg",
+		"collections":"Landscapes"
+	},
+	{
 		"name": "Anime",
 		"author": "Ryan Yao",
 		"url": "https://i.imgur.com/zK8rXCE.jpg",
@@ -15,13 +64,6 @@
 		"url": "https://i.imgur.com/DNad5wu.jpg",
 		"thumbnail": "https://i.imgur.com/DNad5wuh.jpg",
 		"collections":"Beach"
-	},
-	{
-		"name": "Water Drop",
-		"author": "",
-		"url": "https://i.imgur.com/Uo8bbON.jpg",
-		"thumbnail": "https://i.imgur.com/Uo8bbONh.jpg",
-		"collections":"Quotes"
 	},
 	{
 		"name": "3D",
