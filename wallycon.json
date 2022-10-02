@@ -3,6 +3,76 @@
    
 
  	{
+		"name": "Butterfly",
+		"author": "Boris Smokrovic",
+		"url": "https://i.imgur.com/ptncJYD.jpg",
+		"thumbnail": "https://i.imgur.com/ptncJYDh.jpg",
+		"collections":"Animals"
+	},
+	{
+		"name": "Bird",
+		"author": "Kevin Mueller",
+		"url": "https://i.imgur.com/Swz8e9C.jpg",
+		"thumbnail": "https://i.imgur.com/Swz8e9Ch.jpg",
+		"collections":"Animals"
+	},
+	{
+		"name": "Monument Valley",
+		"author": "Llse Orsel",
+		"url": "https://i.imgur.com/9nyJO2u.jpg",
+		"thumbnail": "https://i.imgur.com/9nyJO2uh.jpg",
+		"collections":"Monuments"
+	},
+	{
+		"name": "Eiffel Tower",
+		"author": "Liam Martens",
+		"url": "https://i.imgur.com/41z4wiK.jpg",
+		"thumbnail": "https://i.imgur.com/41z4wiKh.jpg",
+		"collections":"Monuments"
+	},
+	{
+		"name": "Gate Way Of India",
+		"author": "Shalendra Kumar",
+		"url": "https://i.imgur.com/pDKOkgt.jpg",
+		"thumbnail": "https://i.imgur.com/pDKOkgth.jpg",
+		"collections":"Monuments"
+	},
+	{
+		"name": "Valley",
+		"author": "v2osk",
+		"url": "https://i.imgur.com/5DwGGrw.jpg",
+		"thumbnail": "https://i.imgur.com/5DwGGrwh.jpg",
+		"collections":"Nature"
+	},
+	{
+		"name": "Deep",
+		"author": "Samsung Memory",
+		"url": "https://i.imgur.com/ixmy1KT.jpg",
+		"thumbnail": "https://i.imgur.com/ixmy1KTh.jpg",
+		"collections":"Nature"
+	},
+	{
+		"name": "Road",
+		"author": "Tanya Grypachevskaya",
+		"url": "https://i.imgur.com/quhSAOh.jpg",
+		"thumbnail": "https://i.imgur.com/quhSAOhh.jpg",
+		"collections":"Landscapes"
+	},
+	{
+		"name": "View",
+		"author": "Jayy Torres",
+		"url": "https://i.imgur.com/uicgG2K.jpg",
+		"thumbnail": "https://i.imgur.com/uicgG2Kh.jpg",
+		"collections":"Landscapes"
+	},
+	{
+		"name": "Nature",
+		"author": "Egzon Muliqi",
+		"url": "https://i.imgur.com/iOLkDgR.jpg",
+		"thumbnail": "https://i.imgur.com/iOLkDgRh.jpg",
+		"collections":"Landscapes"
+	},
+	{
 		"name": "Anime",
 		"author": "Ryan Yao",
 		"url": "https://i.imgur.com/zK8rXCE.jpg",
