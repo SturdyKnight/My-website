@@ -2,6 +2,7 @@
    
    
 
+
  	{
 		"name": "Bus",
 		"author": "Brittney Weng",
@@ -45,18 +46,53 @@
 		"collections":"Animals"
 	},
 	{
-		"name": "Bird",
+		"name": "Yellow Strips Pattern",
+		"author": "Marsha Reid",
+		"url": "https://i.imgur.com/IYK8Dmc.jpg",
+		"thumbnail": "https://i.imgur.com/IYK8Dmch.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "Green Red Pattern",
+		"author": "Visax",
+		"url": "https://i.imgur.com/WeDoCq9.jpg",
+		"thumbnail": "https://i.imgur.com/WeDoCq9h.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "V pattern",
+		"author": "Renato Ramos Puma",
+		"url": "https://i.imgur.com/roVShvr.jpg",
+		"thumbnail": "https://i.imgur.com/roVShvrh.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "Curve Slices",
+		"author": "Renato Ramos Puma",
+		"url": "https://i.imgur.com/uNY1Tmz.jpg",
+		"thumbnail": "https://i.imgur.com/uNY1Tmzh.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "Diamond Pattern",
+		"author": "Renato Ramos Puma",
+		"url": "https://i.imgur.com/vDg20y1.jpg",
+		"thumbnail": "https://i.imgur.com/vDg20y1h.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "Oval Pattern",
+		"author": "Clark Van Der Beken",
+		"url": "https://i.imgur.com/848ftjp.jpg",
+		"thumbnail": "https://i.imgur.com/848ftjph.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "Parrot",
 		"author": "Kevin Mueller",
 		"url": "https://i.imgur.com/Swz8e9C.jpg",
 		"thumbnail": "https://i.imgur.com/Swz8e9Ch.jpg",
 		"collections":"Animals"
-	},
-	{
-		"name": "Monument Valley",
-		"author": "Llse Orsel",
-		"url": "https://i.imgur.com/9nyJO2u.jpg",
-		"thumbnail": "https://i.imgur.com/9nyJO2uh.jpg",
-		"collections":"Monuments"
 	},
 	{
 		"name": "Eiffel Tower",
@@ -73,35 +109,28 @@
 		"collections":"Monuments"
 	},
 	{
-		"name": "Valley",
+		"name": "Valley Sunrise",
 		"author": "v2osk",
 		"url": "https://i.imgur.com/5DwGGrw.jpg",
 		"thumbnail": "https://i.imgur.com/5DwGGrwh.jpg",
 		"collections":"Nature"
 	},
 	{
-		"name": "Deep",
-		"author": "Samsung Memory",
-		"url": "https://i.imgur.com/ixmy1KT.jpg",
-		"thumbnail": "https://i.imgur.com/ixmy1KTh.jpg",
-		"collections":"Nature"
-	},
-	{
-		"name": "Road",
+		"name": "Road besides waterways",
 		"author": "Tanya Grypachevskaya",
 		"url": "https://i.imgur.com/quhSAOh.jpg",
 		"thumbnail": "https://i.imgur.com/quhSAOhh.jpg",
 		"collections":"Landscapes"
 	},
 	{
-		"name": "View",
+		"name": "View of a Building",
 		"author": "Jayy Torres",
 		"url": "https://i.imgur.com/uicgG2K.jpg",
 		"thumbnail": "https://i.imgur.com/uicgG2Kh.jpg",
 		"collections":"Landscapes"
 	},
 	{
-		"name": "Nature",
+		"name": "Bench in the Garden",
 		"author": "Egzon Muliqi",
 		"url": "https://i.imgur.com/iOLkDgR.jpg",
 		"thumbnail": "https://i.imgur.com/iOLkDgRh.jpg",
@@ -120,13 +149,6 @@
 		"url": "https://i.imgur.com/DNad5wu.jpg",
 		"thumbnail": "https://i.imgur.com/DNad5wuh.jpg",
 		"collections":"Beach"
-	},
-	{
-		"name": "Water Drop",
-		"author": "",
-		"url": "https://i.imgur.com/Uo8bbON.jpg",
-		"thumbnail": "https://i.imgur.com/Uo8bbONh.jpg",
-		"collections":"Quotes"
 	},
 	{
 		"name": "3D",
