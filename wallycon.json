@@ -1,6 +1,42 @@
 [
 	
 	
+	
+	{
+		"name": "Abstract Texture",
+		"author": "",
+		"url": "https://i.imgur.com/o9jtsoW.jpg",
+		"thumbnail": "https://i.imgur.com/o9jtsoWh.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "Dimenstional Structure",
+		"author": "",
+		"url": "https://i.imgur.com/H3wqWi7.jpg",
+		"thumbnail": "https://i.imgur.com/H3wqWi7h.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "Dry Land",
+		"author": "",
+		"url": "https://i.imgur.com/fIsspyq.jpg",
+		"thumbnail": "https://i.imgur.com/fIsspyqh.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "Marble",
+		"author": "",
+		"url": "https://i.imgur.com/fIsspyq.jpg",
+		"thumbnail": "https://i.imgur.com/fIsspyqh.jpg",
+		"collections":"Texture"
+	},
+	{
+		"name": "Cloudy",
+		"author": "",
+		"url": "https://i.imgur.com/2SeaMhu.jpg",
+		"thumbnail": "https://i.imgur.com/2SeaMhuh.jpg",
+		"collections":"Skies"
+	},
 	{
 		"name": "Celing",
 		"author": "",
