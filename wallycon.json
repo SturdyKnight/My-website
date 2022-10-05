@@ -5,6 +5,41 @@
 	
 	
 	{
+		"name": "Leaf",
+		"author": "Ryan Graybill",
+		"url": "https://i.imgur.com/0kDJtLl.jpg",
+		"thumbnail": "https://i.imgur.com/0kDJtLlh.jpg",
+		"collections":"Leafy"
+	},
+	{
+		"name": "Moon and House",
+		"author": "Leandra Reiger",
+		"url": "https://i.imgur.com/gl9FHC5.jpg",
+		"thumbnail": "https://i.imgur.com/gl9FHC5h.jpg",
+		"collections":"Nature"
+	},
+	{
+		"name": "Balloon Man",
+		"author": "Alex Sh",
+		"url": "https://i.imgur.com/7qDWSUA.jpg",
+		"thumbnail": "https://i.imgur.com/7qDWSUAh.jpg",
+		"collections":"3D Renders"
+	},
+	{
+		"name": "Light House",
+		"author": "Petr Slováček",
+		"url": "https://i.imgur.com/MECbVqP.jpg",
+		"thumbnail": "https://i.imgur.com/MECbVqPh.jpg",
+		"collections":"Beach"
+	},
+	{
+		"name": "Sunset view",
+		"author": "Wolfgang hasselmann",
+		"url": "https://i.imgur.com/OMHRJWs.jpg",
+		"thumbnail": "https://i.imgur.com/OMHRJWsh.jpg",
+		"collections":"Nature"
+	},
+	{
 		"name": "Thor and thunder",
 		"author": "",
 		"url": "https://i.imgur.com/ebAKImr.jpg",
