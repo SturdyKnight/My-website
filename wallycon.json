@@ -6,6 +6,41 @@
 	
 	
 	{
+		"name": "Sky and Stars",
+		"author": "",
+		"url": "https://i.imgur.com/rC3yqee.jpg",
+		"thumbnail": "https://i.imgur.com/rC3yqeeh.jpg",
+		"collections":"Skies"
+	},
+	{
+		"name": "Audi Car",
+		"author": "",
+		"url": "https://i.imgur.com/ZsJMmln.jpg",
+		"thumbnail": "https://i.imgur.com/ZsJMmlnh.jpg",
+		"collections":"Vehicle"
+	},
+	{
+		"name": "Blue Bird",
+		"author": "",
+		"url": "https://i.imgur.com/vzXKvYE.jpg",
+		"thumbnail": "https://i.imgur.com/vzXKvYEh.jpg",
+		"collections":"Animals"
+	},
+	{
+		"name": "Leopard",
+		"author": "",
+		"url": "https://i.imgur.com/ib10S9I.jpg",
+		"thumbnail": "https://i.imgur.com/ib10S9Ih.jpg",
+		"collections":"Animals"
+	},
+	{
+		"name": "Flower",
+		"author": "",
+		"url": "https://i.imgur.com/YBhxXzs.jpg",
+		"thumbnail": "https://i.imgur.com/YBhxXzsh.jpg",
+		"collections":"Nature"
+	},
+	{
 		"name": "Custom Walls 1",
 		"author": "Suraj Shankhpal",
 		"url": "https://i.imgur.com/6WcRZqa.png",
