@@ -4,6 +4,34 @@
 
 	
 	{
+		"name": "Turtle",
+		"author": "",
+		"url": "https://i.imgur.com/fwTomNo.jpg",
+		"thumbnail": "https://i.imgur.com/fwTomNo.jpg",
+		"collections":"Animals"
+	},
+	{
+		"name": "Cat",
+		"author": "",
+		"url": "https://i.imgur.com/Oqb0NuY.jpg",
+		"thumbnail": "https://i.imgur.com/Oqb0NuYh.jpg",
+		"collections":"Animals"
+	},
+	{
+		"name": "Tree in Fram",
+		"author": "",
+		"url": "https://i.imgur.com/TR2sGAp.jpg",
+		"thumbnail": "https://i.imgur.com/TR2sGAph.jpg",
+		"collections":"Nature"
+	},
+	{
+		"name": "Mountain view from Road",
+		"author": "",
+		"url": "https://i.imgur.com/K5dXGBB.jpg",
+		"thumbnail": "https://i.imgur.com/K5dXGBBh.jpg",
+		"collections":"Nature"
+	},
+	{
 		"name": "Tree in river",
 		"author": "",
 		"url": "https://i.imgur.com/vOXSgaD.jpg",
