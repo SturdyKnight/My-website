@@ -4,6 +4,34 @@
 
 	
 	{
+		"name": "Flower",
+		"author": "",
+		"url": "https://i.imgur.com/rqfJkhx.jpg",
+		"thumbnail": "https://i.imgur.com/rqfJkhxh.jpg",
+		"collections":"Nature"
+	},
+	{
+		"name": "Peak of Mountain",
+		"author": "",
+		"url": "https://i.imgur.com/tR57lSc.jpg",
+		"thumbnail": "https://i.imgur.com/tR57lSch.jpg",
+		"collections":"Nature"
+	},
+	{
+		"name": "Fire",
+		"author": "",
+		"url": "https://i.imgur.com/1iEOgga.jpg",
+		"thumbnail": "https://i.imgur.com/1iEOggah.jpg",
+		"collections":"3D Renders"
+	},
+	{
+		"name": "Pengwins",
+		"author": "",
+		"url": "https://i.imgur.com/5yYw1vC.jpg",
+		"thumbnail": "https://i.imgur.com/5yYw1vCh.jpg",
+		"collections":"Animals"
+	},
+	{
 		"name": "Turtle",
 		"author": "",
 		"url": "https://i.imgur.com/fwTomNo.jpg",
