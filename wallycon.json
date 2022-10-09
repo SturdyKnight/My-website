@@ -4,7 +4,7 @@
 
 	
 	{
-		"name": "Flower",
+		"name": "Sun Flower",
 		"author": "",
 		"url": "https://i.imgur.com/rqfJkhx.jpg",
 		"thumbnail": "https://i.imgur.com/rqfJkhxh.jpg",
@@ -18,73 +18,38 @@
 		"collections":"Nature"
 	},
 	{
-		"name": "Fire",
+		"name": "Bon Fire",
 		"author": "",
 		"url": "https://i.imgur.com/1iEOgga.jpg",
 		"thumbnail": "https://i.imgur.com/1iEOggah.jpg",
 		"collections":"3D Renders"
 	},
 	{
-		"name": "Pengwins",
-		"author": "",
-		"url": "https://i.imgur.com/5yYw1vC.jpg",
-		"thumbnail": "https://i.imgur.com/5yYw1vCh.jpg",
-		"collections":"Animals"
-	},
-	{
-		"name": "Turtle",
-		"author": "",
-		"url": "https://i.imgur.com/fwTomNo.jpg",
-		"thumbnail": "https://i.imgur.com/fwTomNo.jpg",
-		"collections":"Animals"
-	},
-	{
-		"name": "Cat",
+		"name": "Cute Cat",
 		"author": "",
 		"url": "https://i.imgur.com/Oqb0NuY.jpg",
 		"thumbnail": "https://i.imgur.com/Oqb0NuYh.jpg",
 		"collections":"Animals"
 	},
 	{
-		"name": "Tree in Fram",
-		"author": "",
-		"url": "https://i.imgur.com/TR2sGAp.jpg",
-		"thumbnail": "https://i.imgur.com/TR2sGAph.jpg",
-		"collections":"Nature"
-	},
-	{
-		"name": "Mountain view from Road",
+		"name": "Mountainous Region",
 		"author": "",
 		"url": "https://i.imgur.com/K5dXGBB.jpg",
 		"thumbnail": "https://i.imgur.com/K5dXGBBh.jpg",
 		"collections":"Nature"
 	},
 	{
-		"name": "Tree in river",
+		"name": "Tree in middle of river",
 		"author": "",
 		"url": "https://i.imgur.com/vOXSgaD.jpg",
 		"thumbnail": "https://i.imgur.com/vOXSgaDh.jpg",
 		"collections":"Nature"
 	},
 	{
-		"name": "Spects on beach",
-		"author": "",
-		"url": "https://i.imgur.com/D0pXH2X.jpg",
-		"thumbnail": "https://i.imgur.com/D0pXH2Xh.jpg",
-		"collections":"Beach"
-	},
-	{
-		"name": "Water Ways",
+		"name": "Beach Shore",
 		"author": "",
 		"url": "https://i.imgur.com/42s2i2s.jpg",
 		"thumbnail": "https://i.imgur.com/42s2i2sh.jpg",
-		"collections":"Beach"
-	},
-	{
-		"name": "Sunrise view on beach",
-		"author": "",
-		"url": "https://i.imgur.com/hPotqGk.jpg",
-		"thumbnail": "https://i.imgur.com/hPotqGkh.jpg",
 		"collections":"Beach"
 	},
 	{
