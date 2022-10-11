@@ -3,41 +3,6 @@
 
 
 	{
-		"name": "Colour lines Design",
-		"author": "",
-		"url": "https://i.imgur.com/RsuyhJ2.jpg",
-		"thumbnail": "https://i.imgur.com/RsuyhJ2h.jpg",
-		"collections":""
-	},
-	{
-		"name": "Bulb",
-		"author": "",
-		"url": "https://i.imgur.com/kCwtlCx.jpg",
-		"thumbnail": "https://i.imgur.com/kCwtlCxh.jpg",
-		"collections":""
-	},
-	{
-		"name": "Astro",
-		"author": "",
-		"url": "https://i.imgur.com/9xDtsBj.jpg",
-		"thumbnail": "https://i.imgur.com/9xDtsBjh.jpg",
-		"collections":"Skies"
-	},
-	{
-		"name": "Wallpaper",
-		"author": "",
-		"url": "https://i.imgur.com/YOzz0e1.jpg",
-		"thumbnail": "https://i.imgur.com/YOzz0e1h.jpg",
-		"collections":""
-	},
-	{
-		"name": "Lamp",
-		"author": "",
-		"url": "https://i.imgur.com/LkUeOHJ.jpg",
-		"thumbnail": "https://i.imgur.com/LkUeOHJh.jpg",
-		"collections":""
-	},
-	{
 		"name": "White Continental",
 		"author": "Nanda perin",
 		"url": "https://i.imgur.com/cS54cPF.jpg",
@@ -99,6 +64,41 @@
 		"url": "https://i.imgur.com/3ieeKHh.jpg",
 		"thumbnail": "https://i.imgur.com/3ieeKHh.jpg",
 		"collections":"Vehicle"
+	},
+	{
+		"name": "Abstract colour design",
+		"author": "",
+		"url": "https://i.imgur.com/RsuyhJ2.jpg",
+		"thumbnail": "https://i.imgur.com/RsuyhJ2h.jpg",
+		"collections":"Abstract"
+	},
+	{
+		"name": "Tungsten Bulb",
+		"author": "",
+		"url": "https://i.imgur.com/kCwtlCx.jpg",
+		"thumbnail": "https://i.imgur.com/kCwtlCxh.jpg",
+		"collections":"Aesthetic"
+	},
+	{
+		"name": "Astro",
+		"author": "",
+		"url": "https://i.imgur.com/9xDtsBj.jpg",
+		"thumbnail": "https://i.imgur.com/9xDtsBjh.jpg",
+		"collections":"Skies"
+	},
+	{
+		"name": "Pastel 31",
+		"author": "",
+		"url": "https://i.imgur.com/YOzz0e1.jpg",
+		"thumbnail": "https://i.imgur.com/YOzz0e1h.jpg",
+		"collections":"Aesthetic"
+	},
+	{
+		"name": "Lamp",
+		"author": "",
+		"url": "https://i.imgur.com/LkUeOHJ.jpg",
+		"thumbnail": "https://i.imgur.com/LkUeOHJh.jpg",
+		"collections":"Aesthetic"
 	},
 	{
 		"name": "Sunflower Selective Focus",
