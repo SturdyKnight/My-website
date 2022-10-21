@@ -2,7 +2,56 @@
 	
 
 	{
-		"name": "Trial",
+		"name": "Bass Girl",
+		"author": "Moein Shekarchi and Samare Sadeghi",
+		"url": "https://i.imgur.com/3bNvxET.jpg",
+		"thumbnail": "https://i.imgur.com/3bNvxETh.jpg",
+		"collections":"People,Aesthetic,Backdrops,Pastel"
+	},
+	{
+		"name": "Enthu Guy",
+		"author": "Moein Shekarchi and Samare Sadeghi",
+		"url": "https://i.imgur.com/exHVVsW.jpg",
+		"thumbnail": "https://i.imgur.com/exHVVsWh.jpg",
+		"collections":"People,Aesthetic,Backdrops,Pastel"
+	},
+	{
+		"name": "Sleepy Head 1.0",
+		"author": "Moein Shekarchi and Samare Sadeghi",
+		"url": "https://i.imgur.com/0GD2D8n.jpg",
+		"thumbnail": "https://i.imgur.com/0GD2D8nh.jpg",
+		"collections":"People,Aesthetic,Backdrops,Pastel"
+	},
+	{
+		"name": "Sleepy Head 2.0",
+		"author": "Moein Shekarchi and Samare Sadeghi",
+		"url": "https://i.imgur.com/IhLcF0T.jpg",
+		"thumbnail": "https://i.imgur.com/IhLcF0Th.jpg",
+		"collections":"People,Aesthetic,Backdrops,Pastel"
+	},
+	{
+		"name": "Sking Queen",
+		"author": "Moein Shekarchi and Samare Sadeghi",
+		"url": "https://i.imgur.com/wxkDldc.jpg",
+		"thumbnail": "https://i.imgur.com/wxkDldch.jpg",
+		"collections":"People,Aesthetic,Backdrops,Pastel"
+	},
+	{
+		"name": "Stylo",
+		"author": "Moein Shekarchi and Samare Sadeghi",
+		"url": "https://i.imgur.com/tL1I89m.jpg",
+		"thumbnail": "https://i.imgur.com/tL1I89mh.jpg",
+		"collections":"People,Aesthetic,Backdrops,Pastel"
+	},
+	{
+		"name": "Cute Wanderlust",
+		"author": "Moein Shekarchi and Samare Sadeghi",
+		"url": "https://i.imgur.com/VYM9Pbz.jpg",
+		"thumbnail": "https://i.imgur.com/VYM9Pbzh.jpg",
+		"collections":"People,Aesthetic,Backdrops,Pastel"
+	},
+	{
+		"name": "Sturdy Adventurous Guy",
 		"author": "Moein Shekarchi and Samare Sadeghi",
 		"url": "https://i.imgur.com/NMcACMu.jpg",
 		"thumbnail": "https://i.imgur.com/NMcACMuh.jpg",
