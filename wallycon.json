@@ -1,7 +1,42 @@
 [
 	
 	{
-		"name": "Demonslayer 🤍",
+		"name": "Asta",
+		"author": "zuan",
+		"url": "https://i.imgur.com/LJkDaj7.jpg",
+		"thumbnail": "https://i.imgur.com/LJkDaj7h.jpg",
+		"collections":"Anime"
+	},	
+	{
+		"name": "Gojosatoru",
+		"author": "zuan",
+		"url": "https://i.imgur.com/btXGFqy.jpg",
+		"thumbnail": "https://i.imgur.com/btXGFqyh.jpg",
+		"collections":"Anime"
+	},
+	{
+		"name": "Nagato",
+		"author": "zuan",
+		"url": "https://i.imgur.com/YXH8pWx.jpg",
+		"thumbnail": "https://i.imgur.com/YXH8pWxh.jpg",
+		"collections":"Anime"
+	},
+	{
+		"name": "Levi Ackerman",
+		"author": "zuan",
+		"url": "https://i.imgur.com/ixyyZZ1.jpg",
+		"thumbnail": "https://i.imgur.com/ixyyZZ1h.jpg",
+		"collections":"Anime"
+	},
+	{
+		"name": "Sukuna",
+		"author": "zuan",
+		"url": "https://i.imgur.com/NkYQATv.jpg",
+		"thumbnail": "https://i.imgur.com/NkYQATvh.jpg",
+		"collections":"Anime"
+	},
+	{
+		"name": "Demonslayer",
 		"author": "flyar9art",
 		"url": "https://i.imgur.com/1mEuIGJ.jpg",
 		"thumbnail": "https://i.imgur.com/1mEuIGJh.jpg",
